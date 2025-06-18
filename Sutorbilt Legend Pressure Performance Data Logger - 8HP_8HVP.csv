@@ -1,0 +1,83 @@
+8HP/8HVP - High Pressure Performance Data,,,,,,,
+Airflow Range: 480-850 SCFM,,,Interval: 30 SCFM,,,RPM Range: 1170-1800,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,480,7,22.4,1115,62,50,Sutorbilt Legend - 8H
+2,480,8,25.8,1131,63,57,Sutorbilt Legend - 8H
+3,480,9,29.2,1146,64,63,Sutorbilt Legend - 8H
+4,480,11,36.2,1174,65,77,Sutorbilt Legend - 8H
+5,480,13,43.5,1200,67,90,Sutorbilt Legend - 8H
+6,480,15,,,,,Sutorbilt Legend - 8H  model not available
+7,510,7,23.5,1169,65,50,Sutorbilt Legend - 8H
+8,510,8,27,1185,66,57,Sutorbilt Legend - 8H
+9,510,9,30.6,1200,67,63,Sutorbilt Legend - 8H
+10,510,11,37.9,1228,68,77,Sutorbilt Legend - 8H
+11,510,13,45.4,1254,70,90,Sutorbilt Legend - 8H
+12,510,15,,,,,Sutorbilt Legend - 8H  model not available
+13,540,7,24.6,1223,68,50,Sutorbilt Legend - 8H
+14,540,8,28.3,1239,69,57,Sutorbilt Legend - 8H
+15,540,9,32,1254,70,63,Sutorbilt Legend - 8H
+16,540,11,39.6,1282,71,77,Sutorbilt Legend - 8H
+17,540,13,47.4,1308,73,90,Sutorbilt Legend - 8H
+18,540,15,,,,,Sutorbilt Legend - 8H  model not available
+19,570,7,25.7,1277,71,50,Sutorbilt Legend - 8H
+20,570,8,29.5,1293,72,57,Sutorbilt Legend - 8H
+21,570,9,33.3,1308,73,63,Sutorbilt Legend - 8H
+22,570,11,41.2,1336,74,77,Sutorbilt Legend - 8H
+23,570,13,49.3,1362,76,90,Sutorbilt Legend - 8H
+24,570,15,,,,,Sutorbilt Legend - 8H  model not available
+25,600,7,26.8,1331,74,50,Sutorbilt Legend - 8H
+26,600,8,30.7,1347,75,57,Sutorbilt Legend - 8H
+27,600,9,34.7,1363,76,63,Sutorbilt Legend - 8H
+28,600,11,42.9,1391,77,77,Sutorbilt Legend - 8H
+29,600,13,51.3,1416,79,90,Sutorbilt Legend - 8H
+30,600,15,,,,,Sutorbilt Legend - 8H  model not available
+31,630,7,27.9,1385,77,50,Sutorbilt Legend - 8H
+32,630,8,32,1401,78,57,Sutorbilt Legend - 8H
+33,630,9,36.1,1417,79,63,Sutorbilt Legend - 8H
+34,630,11,44.6,1445,80,77,Sutorbilt Legend - 8H
+35,630,13,53.3,1470,82,90,Sutorbilt Legend - 8H
+36,630,15,,,,,Sutorbilt Legend - 8H  model not available
+37,660,7,29,1440,80,50,Sutorbilt Legend - 8H
+38,660,8,33.2,1456,81,57,Sutorbilt Legend - 8H
+39,660,9,37.5,1471,82,63,Sutorbilt Legend - 8H
+40,660,11,46.2,1499,83,77,Sutorbilt Legend - 8H
+41,660,13,55.2,1525,85,90,Sutorbilt Legend - 8H
+42,660,15,,,,,Sutorbilt Legend - 8H  model not available
+43,690,7,30.1,1494,83,50,Sutorbilt Legend - 8H
+44,690,8,34.4,1510,84,57,Sutorbilt Legend - 8H
+45,690,9,38.9,1525,85,63,Sutorbilt Legend - 8H
+46,690,11,47.9,1553,86,77,Sutorbilt Legend - 8H
+47,690,13,57.2,1579,88,90,Sutorbilt Legend - 8H
+48,690,15,,,,,Sutorbilt Legend - 8H  model not available
+49,720,7,31.1,1548,86,50,Sutorbilt Legend - 8H
+50,720,8,35.7,1564,87,57,Sutorbilt Legend - 8H
+51,720,9,40.2,1579,88,63,Sutorbilt Legend - 8H
+52,720,11,49.6,1607,89,77,Sutorbilt Legend - 8H
+53,720,13,59.1,1633,91,90,Sutorbilt Legend - 8H
+54,720,15,,,,,Sutorbilt Legend - 8H  model not available
+55,750,7,32.2,1602,89,50,Sutorbilt Legend - 8H
+56,750,8,36.9,1618,90,57,Sutorbilt Legend - 8H
+57,750,9,41.6,1633,91,63,Sutorbilt Legend - 8H
+58,750,11,51.3,1661,92,77,Sutorbilt Legend - 8H
+59,750,13,61.1,1687,94,90,Sutorbilt Legend - 8H
+60,750,15,,,,,Sutorbilt Legend - 8H  model not available
+61,780,7,33.3,1656,92,50,Sutorbilt Legend - 8H
+62,780,8,38.1,1672,93,57,Sutorbilt Legend - 8H
+63,780,9,43,1687,94,63,Sutorbilt Legend - 8H
+64,780,11,52.9,1715,95,77,Sutorbilt Legend - 8H
+65,780,13,63.1,1741,97,90,Sutorbilt Legend - 8H
+66,780,15,,,,,Sutorbilt Legend - 8H  model not available
+67,810,7,34.4,1710,95,50,Sutorbilt Legend - 8H
+68,810,8,39.4,1726,96,57,Sutorbilt Legend - 8H
+69,810,9,44.4,1741,97,63,Sutorbilt Legend - 8H
+70,810,11,54.6,1769,98,77,Sutorbilt Legend - 8H
+71,810,13,65,1795,100,90,Sutorbilt Legend - 8H
+72,810,15,,,,,Sutorbilt Legend - 8H  model not available
+73,840,7,35.5,1764,98,50,Sutorbilt Legend - 8H
+74,840,8,40.6,1780,99,57,Sutorbilt Legend - 8H
+75,840,9,45.8,1795,100,63,Sutorbilt Legend - 8H
+76,840,11,,,,,Sutorbilt Legend - 8H  model not available
+77,840,13,,,,,Sutorbilt Legend - 8H  model not available
+78,840,15,,,,,Sutorbilt Legend - 8H  model not available

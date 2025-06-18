@@ -1,0 +1,181 @@
+125CDL375B - Performance Data,,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,,
+Config,Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,
+RC1,1,300,5,10,1225,27,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,2,300,8,15.5,1313,29,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,3,300,10,19.7,1371,30,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,4,300,12,24.2,1427,32,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,5,300,15,31.7,1509,34,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,6,350,5,11.3,1380,31,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,7,350,8,17.4,1467,33,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,8,350,10,21.9,1523,34,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,9,350,12,26.7,1578,35,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,10,350,15,34.7,1657,37,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,11,400,5,12.7,1534,34,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,12,400,8,19.2,1618,36,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,13,400,10,24.1,1673,37,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,14,400,12,29.3,1727,38,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,15,400,15,37.7,1804,40,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,16,450,5,14.1,1686,37,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,17,450,8,21.1,1769,39,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,18,450,10,26.3,1822,40,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,19,450,12,31.8,1874,42,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,20,450,15,40.7,1950,43,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,21,500,5,15.5,1837,41,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,22,500,8,23.1,1918,43,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,23,500,10,28.5,1970,44,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,24,500,12,34.4,2021,45,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,25,500,15,43.7,2094,47,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,26,550,5,17,1986,44,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,27,550,8,25,2065,46,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,28,550,10,30.8,2116,47,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,29,550,12,36.9,2165,48,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,30,550,15,46.7,2237,50,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,31,600,5,18.4,2134,47,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,32,600,8,27,2211,49,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,33,600,10,33.1,2261,50,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,34,600,12,39.5,2309,51,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,35,600,15,49.8,2378,53,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,36,650,5,19.9,2281,51,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,37,650,8,28.9,2356,52,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,38,650,10,35.3,2404,53,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,39,650,12,42.1,2451,54,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,40,650,15,52.8,2518,56,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,41,700,5,21.4,2426,54,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,42,700,8,30.9,2499,56,47,CycloBlower H.E. - 125CDL375 RC1 Low
+,43,700,10,37.6,2546,57,58,CycloBlower H.E. - 125CDL375 RC1 Low
+,44,700,12,44.7,2591,58,69,CycloBlower H.E. - 125CDL375 RC1 Low
+,45,700,15,55.8,2657,59,86,CycloBlower H.E. - 125CDL375 RC1 Low
+,46,242.4,5,8.4,1044,23,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,47,468.4,5,14.6,1742,39,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,48,708.5,5,21.7,2451,54,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,49,962.7,5,29.6,3165,70,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,50,1230.9,5,38.4,3879,86,31,CycloBlower H.E. - 125CDL375 RC1 Low
+,51,1513.2,5,,,NA (not highlited),NA (not highlited),CycloBlower H.E. - 125CDL375 RC1 Low
+RC1 (Low),52,202.4,9,13.6,1041,23,53,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,53,431.6,9,22.9,1741,39,53,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,54,674.9,9,33.1,2451,54,53,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,55,932.3,9,44.2,3166,70,53,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,56,1203.8,9,56.1,3878,86,53,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,57,1489.3,9,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,58,173.1,12,17.9,1039,23,69,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,59,404.7,12,29.5,1741,39,69,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,60,650.5,12,42.1,2452,54,69,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,61,910.3,12,55.6,3166,70,69,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,62,1184.2,12,69.8,3878,86,69,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,63,1472.1,12,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,64,144.4,15,22.4,1037,23,86,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,65,378.5,15,36.4,1741,39,86,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,66,626.6,15,51.4,2453,55,86,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,67,888.9,15,67.2,3167,70,86,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,68,1165.2,15,83.8,3877,86,86,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL
+,69,1455.6,15,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,70,603.4,18,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,71,868.1,18,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,72,1146.9,18,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+,73,1439.7,18,,,,,CycloBlower H.E. - 125CDL375 RC1 Low Compression FFL-Model Not Available
+RC2  (Low),74,222.6,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,75,482,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,76,741.5,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,77,1001,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,78,1260.6,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,79,1520.2,5,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,80,198.9,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,81,459.1,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,82,719.3,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,83,979.6,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,84,1239.9,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,85,1500.2,9,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,86,181.4,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,87,442.1,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,88,702.9,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,89,963.7,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,90,1224.5,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,91,1485.4,12,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,92,163.9,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,93,425.2,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,94,686.5,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,95,947.9,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,96,1209.3,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,97,1470.7,15,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,98,146.7,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,99,408.5,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,100,670.3,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,101,932.2,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,102,1194.2,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,103,1456.1,18,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,104,135.2,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,105,397.4,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,106,659.6,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,107,921.9,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,108,1184.2,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+,109,1446.5,20,,,,,CycloBlower H.E. - 125CDL375 RC2 Low Compression FFL-Model Not Available
+RC3  (Low),110,154.8,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,111,416.8,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,112,677.4,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,113,936.6,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,114,1194.5,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,115,1451,12,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,116,141,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,117,403.7,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,118,665,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,119,924.9,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,120,1183.5,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,121,1440.6,15,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,122,127.2,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,123,390.6,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,124,652.6,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,125,913.2,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,126,1172.5,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,127,1430.3,18,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,128,118.1,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,129,381.9,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,130,644.4,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,131,905.5,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,132,1165.2,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+,133,1423.5,20,,,,,CycloBlower H.E. - 125CDL375 RC3 Low Compression FFL-Model Not Available
+RC2 (High),134,129.5,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,135,391.9,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,136,654.3,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,137,916.7,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,138,1179.2,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,139,1441.7,21,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,140,375.4,24,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,141,638.4,24,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,142,901.4,24,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,143,1164.4,24,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,144,1427.4,24,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,145,622.6,27,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,146,886.1,27,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,147,1149.7,27,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,148,1413.3,27,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,149,607,30,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,150,871,30,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,151,1135.2,30,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+,152,1399.3,30,,,,,CycloBlower H.E. - 125CDL375 RC2 High Compression FFL-Model Not Available
+RC3 (High),153,113.5,21,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,154,377.6,21,48,1732,38,60,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,155,640.3,21,70.5,2446,54,60,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,156,901.6,21,95.4,3160,70,60,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,157,1161.5,21,122.5,3875,86,60,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,158,1420.1,21,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,159,364.6,24,46.9,1697,38,60,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,160,628,24,76.2,2446,54,68,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,161,890,24,101.8,3160,70,68,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,162,1150.6,24,129.7,3874,86,68,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,163,1409.8,24,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,164,351.6,27,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,165,615.7,27,82.1,2446,54,76,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,166,878.3,27,108.4,3160,70,76,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,167,1139.7,27,137.1,3874,86,76,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,168,1399.6,27,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,169,603.4,30,88.3,2446,54,85,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,170,866.8,30,115.6,3165,70,85,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,171,1128.8,30,144.7,3874,86,85,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,172,1389.4,30,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,173,855.2,33,122.6,3160,70,93,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,174,1117.9,33,152.7,3874,86,93,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL
+,175,1379.2,33,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,176,843.7,36,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,177,1107.1,36,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available
+,178,1369.1,36,,,,,CycloBlower H.E. - 125CDL375 RC3 High Compression FFL-Model Not Available

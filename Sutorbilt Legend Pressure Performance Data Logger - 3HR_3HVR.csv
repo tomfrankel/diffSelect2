@@ -1,0 +1,53 @@
+3HR/3HVR - High Pressure Performance Data,,,,,,,
+Airflow Range: 60-130 SCFM,,,Interval: 10 SCFM,,,RPM Range: 1760-3600,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,60,7,3.4,2136,59,50,Sutorbilt Legend - 3HR
+2,60,8,4,2186,61,57,Sutorbilt Legend - 3HR
+3,60,9,4.5,2233,62,63,Sutorbilt Legend - 3HR
+4,60,11,5.7,2320,64,77,Sutorbilt Legend - 3HR
+5,60,13,,,,,Sutorbilt Legend - 3HR model not available
+6,60,15,,,,,Sutorbilt Legend - 3HR model not available
+7,70,7,3.8,2363,66,50,Sutorbilt Legend - 3HR
+8,70,8,4.4,2413,67,57,Sutorbilt Legend - 3HR
+9,70,9,5,2460,68,63,Sutorbilt Legend - 3HR
+10,70,11,6.2,2547,71,77,Sutorbilt Legend - 3HR
+11,70,13,,,,,Sutorbilt Legend - 3HR model not available
+12,70,15,,,,,Sutorbilt Legend - 3HR model not available
+13,80,7,4.1,2590,72,50,Sutorbilt Legend - 3HR
+14,80,8,4.8,2640,73,57,Sutorbilt Legend - 3HR
+15,80,9,5.4,2687,75,63,Sutorbilt Legend - 3HR
+16,80,11,6.8,2774,77,77,Sutorbilt Legend - 3HR
+17,80,13,8.2,2854,79,90,Sutorbilt Legend - 3HR
+18,80,15,,,,,Sutorbilt Legend - 3HR model not available
+19,90,7,4.5,2816,78,50,Sutorbilt Legend - 3HR
+20,90,8,5.2,2866,80,57,Sutorbilt Legend - 3HR
+21,90,9,5.9,2914,81,63,Sutorbilt Legend - 3HR
+22,90,11,7.4,3001,83,77,Sutorbilt Legend - 3HR
+23,90,13,8.9,3081,86,90,Sutorbilt Legend - 3HR
+24,90,15,,,,,Sutorbilt Legend - 3HR model not available
+25,100,7,4.9,3043,85,50,Sutorbilt Legend - 3HR
+26,100,8,5.6,3093,86,57,Sutorbilt Legend - 3HR
+27,100,9,6.4,3141,87,63,Sutorbilt Legend - 3HR
+28,100,11,7.9,3228,90,77,Sutorbilt Legend - 3HR
+29,100,13,9.5,3308,92,90,Sutorbilt Legend - 3HR
+30,100,15,,,,,Sutorbilt Legend - 3HR model not available
+31,110,7,5.2,3270,91,50,Sutorbilt Legend - 3HR
+32,110,8,6,3320,92,57,Sutorbilt Legend - 3HR
+33,110,9,6.8,3367,94,63,Sutorbilt Legend - 3HR
+34,110,11,8.5,3455,96,77,Sutorbilt Legend - 3HR
+35,110,13,10.2,3535,98,90,Sutorbilt Legend - 3HR
+36,110,15,,,,,Sutorbilt Legend - 3HR model not available
+37,120,7,5.6,3497,97,50,Sutorbilt Legend - 3HR
+38,120,8,6.4,3547,99,57,Sutorbilt Legend - 3HR
+39,120,9,7.3,3594,100,63,Sutorbilt Legend - 3HR
+40,120,11,,,,,Sutorbilt Legend - 3HR model not available
+41,120,13,,,,,Sutorbilt Legend - 3HR model not available
+42,120,15,,,,,Sutorbilt Legend - 3HR model not available
+43,130,7,,,,,Sutorbilt Legend - 3HR model not available
+44,130,8,,,,,Sutorbilt Legend - 3HR model not available
+45,130,9,,,,,Sutorbilt Legend - 3HR model not available
+46,130,11,,,,,Sutorbilt Legend - 3HR model not available
+47,130,13,,,,,Sutorbilt Legend - 3HR model not available
+48,130,15,,,,,Sutorbilt Legend - 3HR model not available

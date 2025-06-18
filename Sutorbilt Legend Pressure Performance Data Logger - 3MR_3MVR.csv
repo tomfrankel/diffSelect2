@@ -1,0 +1,77 @@
+3MR/3MVR - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 60-170 SCFM,,,Interval: 10 SCFM,,,RPM Range: 1760-3600,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,60,8,4.4,1787,50,71,Sutorbilt Legend - 3M
+2,60,9,5,1830,51,79,Sutorbilt Legend - 3M
+3,60,10,,,,,Sutorbilt Legend - 3M   model not available
+4,60,12,,,,,Sutorbilt Legend - 3M   model not available
+5,60,13,,,,,Sutorbilt Legend - 3M   model not available
+6,60,14,,,,,Sutorbilt Legend - 3M   model not available
+7,70,8,4.8,1957,54,71,Sutorbilt Legend - 3M
+8,70,9,5.4,2001,56,79,Sutorbilt Legend - 3M
+9,70,10,,,,,Sutorbilt Legend - 3M   model not available
+10,70,12,,,,,Sutorbilt Legend - 3M   model not available
+11,70,13,,,,,Sutorbilt Legend - 3M   model not available
+12,70,14,,,,,Sutorbilt Legend - 3M   model not available
+13,80,8,5.1,2127,59,71,Sutorbilt Legend - 3M
+14,80,9,5.9,2171,60,79,Sutorbilt Legend - 3M
+15,80,10,6.6,2212,61,88,Sutorbilt Legend - 3M
+16,80,12,,,,,Sutorbilt Legend - 3M   model not available
+17,80,13,,,,,Sutorbilt Legend - 3M   model not available
+18,80,14,,,,,Sutorbilt Legend - 3M   model not available
+19,90,8,5.6,2297,64,71,Sutorbilt Legend - 3M
+20,90,9,6.3,2341,65,79,Sutorbilt Legend - 3M
+21,90,10,7.1,2382,66,88,Sutorbilt Legend - 3M
+22,90,12,,,,,Sutorbilt Legend - 3M   model not available
+23,90,13,,,,,Sutorbilt Legend - 3M   model not available
+24,90,14,,,,,Sutorbilt Legend - 3M   model not available
+25,100,8,6,2467,69,71,Sutorbilt Legend - 3M
+26,100,9,6.8,2511,70,79,Sutorbilt Legend - 3M
+27,100,10,7.6,2553,71,88,Sutorbilt Legend - 3M
+28,100,12,,,,,Sutorbilt Legend - 3M   model not available
+29,100,13,,,,,Sutorbilt Legend - 3M   model not available
+30,100,14,,,,,Sutorbilt Legend - 3M   model not available
+31,110,8,6.4,2637,73,71,Sutorbilt Legend - 3M
+32,110,9,7.2,2681,74,79,Sutorbilt Legend - 3M
+33,110,10,8.1,2723,76,88,Sutorbilt Legend - 3M
+34,110,12,,,,,Sutorbilt Legend - 3M   model not available
+35,110,13,,,,,Sutorbilt Legend - 3M   model not available
+36,110,14,,,,,Sutorbilt Legend - 3M   model not available
+37,120,8,6.8,2808,78,71,Sutorbilt Legend - 3M
+38,120,9,7.7,2851,79,79,Sutorbilt Legend - 3M
+39,120,10,8.6,2893,80,88,Sutorbilt Legend - 3M
+40,120,12,,,,,Sutorbilt Legend - 3M   model not available
+41,120,13,,,,,Sutorbilt Legend - 3M   model not available
+42,120,14,,,,,Sutorbilt Legend - 3M   model not available
+43,130,8,7.2,2978,83,71,Sutorbilt Legend - 3M
+44,130,9,8.2,3022,84,79,Sutorbilt Legend - 3M
+45,130,10,9.1,3063,85,88,Sutorbilt Legend - 3M
+46,130,12,,,,,Sutorbilt Legend - 3M   model not available
+47,130,13,,,,,Sutorbilt Legend - 3M   model not available
+48,130,14,,,,,Sutorbilt Legend - 3M   model not available
+49,140,8,7.6,3148,87,71,Sutorbilt Legend - 3M
+50,140,9,8.6,3192,89,79,Sutorbilt Legend - 3M
+51,140,10,9.7,3233,90,88,Sutorbilt Legend - 3M
+52,140,12,,,,,Sutorbilt Legend - 3M   model not available
+53,140,13,,,,,Sutorbilt Legend - 3M   model not available
+54,140,14,,,,,Sutorbilt Legend - 3M   model not available
+55,150,8,8,3318,92,71,Sutorbilt Legend - 3M
+56,150,9,9.1,3362,93,79,Sutorbilt Legend - 3M
+57,150,10,10.2,3403,95,88,Sutorbilt Legend - 3M
+58,150,12,,,,,Sutorbilt Legend - 3M   model not available
+59,150,13,,,,,Sutorbilt Legend - 3M   model not available
+60,150,14,,,,,Sutorbilt Legend - 3M   model not available
+61,160,8,8.4,3488,97,71,Sutorbilt Legend - 3M
+62,160,9,9.5,3532,98,79,Sutorbilt Legend - 3M
+63,160,10,10.7,3574,99,88,Sutorbilt Legend - 3M
+64,160,12,,,,,Sutorbilt Legend - 3M   model not available
+65,160,13,,,,,Sutorbilt Legend - 3M   model not available
+66,160,14,,,,,Sutorbilt Legend - 3M   model not available
+67,170,8,,,,,Sutorbilt Legend - 3M   model not available
+68,170,9,,,,,Sutorbilt Legend - 3M   model not available
+69,170,10,,,,,Sutorbilt Legend - 3M   model not available
+70,170,12,,,,,Sutorbilt Legend - 3M   model not available
+71,170,13,,,,,Sutorbilt Legend - 3M   model not available
+72,170,14,,,,,Sutorbilt Legend - 3M   model not available

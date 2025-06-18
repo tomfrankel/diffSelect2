@@ -1,0 +1,95 @@
+5MR/5MVR - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 210-500 SCFM,,,Interval: 20 SCFM,,,RPM Range: 1760-2850,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,210,8,12.1,1433,50,65,Sutorbilt Legend - 5M
+2,210,9,13.8,1457,51,73,Sutorbilt Legend - 5M
+3,210,10,15.5,1479,52,81,Sutorbilt Legend - 5M
+4,210,12,,,,,Sutorbilt Legend - 5M  model not available
+5,210,13,,,,,Sutorbilt Legend - 5M  model not available
+6,210,14,,,,,Sutorbilt Legend - 5M  model not available
+7,230,8,12.9,1530,54,65,Sutorbilt Legend - 5M
+8,230,9,14.7,1554,55,73,Sutorbilt Legend - 5M
+9,230,10,16.5,1576,55,81,Sutorbilt Legend - 5M
+10,230,12,,,,,Sutorbilt Legend - 5M  model not available
+11,230,13,,,,,Sutorbilt Legend - 5M  model not available
+12,230,14,,,,,Sutorbilt Legend - 5M  model not available
+13,250,8,13.8,1628,57,65,Sutorbilt Legend - 5M
+14,250,9,15.6,1651,58,73,Sutorbilt Legend - 5M
+15,250,10,17.5,1674,59,81,Sutorbilt Legend - 5M
+16,250,12,,,,,Sutorbilt Legend - 5M  model not available
+17,250,13,,,,,Sutorbilt Legend - 5M  model not available
+18,250,14,,,,,Sutorbilt Legend - 5M  model not available
+19,270,8,14.6,1725,61,65,Sutorbilt Legend - 5M
+20,270,9,16.5,1749,61,73,Sutorbilt Legend - 5M
+21,270,10,18.5,1771,62,81,Sutorbilt Legend - 5M
+22,270,12,22.6,1813,64,96,Sutorbilt Legend - 5M
+23,270,13,,,,,Sutorbilt Legend - 5M  model not available
+24,270,14,,,,,Sutorbilt Legend - 5M  model not available
+25,290,8,15.4,1822,64,65,Sutorbilt Legend - 5M
+26,290,9,17.5,1846,65,73,Sutorbilt Legend - 5M
+27,290,10,19.5,1868,66,81,Sutorbilt Legend - 5M
+28,290,12,23.8,1910,67,96,Sutorbilt Legend - 5M
+29,290,13,,,,,Sutorbilt Legend - 5M  model not available
+30,290,14,,,,,Sutorbilt Legend - 5M  model not available
+31,310,8,16.2,1919,67,65,Sutorbilt Legend - 5M
+32,310,9,18.4,1943,68,73,Sutorbilt Legend - 5M
+33,310,10,20.5,1965,69,81,Sutorbilt Legend - 5M
+34,310,12,25,2007,70,96,Sutorbilt Legend - 5M
+35,310,13,,,,,Sutorbilt Legend - 5M  model not available
+36,310,14,,,,,Sutorbilt Legend - 5M  model not available
+37,330,8,17.1,2017,71,65,Sutorbilt Legend - 5M
+38,330,9,19.3,2040,72,73,Sutorbilt Legend - 5M
+39,330,10,21.6,2063,72,81,Sutorbilt Legend - 5M
+40,330,12,26.2,2104,74,96,Sutorbilt Legend - 5M
+41,330,13,,,,,Sutorbilt Legend - 5M  model not available
+42,330,14,,,,,Sutorbilt Legend - 5M  model not available
+43,350,8,17.9,2114,74,65,Sutorbilt Legend - 5M
+44,350,9,20.2,2137,75,73,Sutorbilt Legend - 5M
+45,350,10,22.6,2160,76,81,Sutorbilt Legend - 5M
+46,350,12,27.4,2202,77,96,Sutorbilt Legend - 5M
+47,350,13,,,,,Sutorbilt Legend - 5M  model not available
+48,350,14,,,,,Sutorbilt Legend - 5M  model not available
+49,370,8,18.7,2211,78,65,Sutorbilt Legend - 5M
+50,370,9,21.1,2235,78,73,Sutorbilt Legend - 5M
+51,370,10,23.6,2257,79,81,Sutorbilt Legend - 5M
+52,370,12,28.6,2299,81,96,Sutorbilt Legend - 5M
+53,370,13,,,,,Sutorbilt Legend - 5M  model not available
+54,370,14,,,,,Sutorbilt Legend - 5M  model not available
+55,390,8,19.5,2308,81,65,Sutorbilt Legend - 5M
+56,390,9,22.1,2332,82,73,Sutorbilt Legend - 5M
+57,390,10,24.4,2332,82,81,Sutorbilt Legend - 5M
+58,390,12,29.8,2396,84,96,Sutorbilt Legend - 5M
+59,390,13,,,,,Sutorbilt Legend - 5M  model not available
+60,390,14,,,,,Sutorbilt Legend - 5M  model not available
+61,410,8,20.4,2406,84,65,Sutorbilt Legend - 5M
+62,410,9,23,2429,85,73,Sutorbilt Legend - 5M
+63,410,10,25.6,2452,86,81,Sutorbilt Legend - 5M
+64,410,12,31,2493,87,96,Sutorbilt Legend - 5M
+65,410,13,,,,,Sutorbilt Legend - 5M  model not available
+66,410,14,,,,,Sutorbilt Legend - 5M  model not available
+67,430,8,21.2,2503,88,65,Sutorbilt Legend - 5M
+68,430,9,23.9,2526,89,73,Sutorbilt Legend - 5M
+69,430,10,26.6,2549,89,81,Sutorbilt Legend - 5M
+70,430,12,32.2,2591,91,96,Sutorbilt Legend - 5M
+71,430,13,,,,,Sutorbilt Legend - 5M  model not available
+72,430,14,,,,,Sutorbilt Legend - 5M  model not available
+73,450,8,22,2600,91,65,Sutorbilt Legend - 5M
+74,450,9,24.8,2624,92,73,Sutorbilt Legend - 5M
+75,450,10,27.7,2646,93,81,Sutorbilt Legend - 5M
+76,450,12,33.4,2688,94,96,Sutorbilt Legend - 5M
+77,450,13,,,,,Sutorbilt Legend - 5M  model not available
+78,450,14,,,,,Sutorbilt Legend - 5M  model not available
+79,470,8,22.8,2697,95,65,Sutorbilt Legend - 5M
+80,470,9,25.7,2721,95,73,Sutorbilt Legend - 5M
+81,470,10,28.7,2743,96,81,Sutorbilt Legend - 5M
+82,470,12,34.7,2785,98,96,Sutorbilt Legend - 5M
+83,470,13,,,,,Sutorbilt Legend - 5M  model not available
+84,470,14,,,,,Sutorbilt Legend - 5M  model not available
+85,490,8,23.2,2746,96,65,Sutorbilt Legend - 5M
+86,490,9,26.2,2769,97,73,Sutorbilt Legend - 5M
+87,490,10,29.2,2791,98,81,Sutorbilt Legend - 5M
+88,490,12,35.3,2833,99,96,Sutorbilt Legend - 5M
+89,490,13,,,,,Sutorbilt Legend - 5M  model not available
+90,490,14,,,,,Sutorbilt Legend - 5M  model not available

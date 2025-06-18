@@ -1,0 +1,349 @@
+250CDL750B - Performance Data,,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,,
+Config,Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,
+RC1,1,600,5,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,2,600,9,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,3,600,12,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,4,600,15,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,5,600,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,6,675,5,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,7,675,9,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,8,675,12,72.1,514,23,69,CycloBlower HE 250CDL750RC1 Low
+,9,675,15,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,10,675,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,11,750,5,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,12,750,9,54,511,23,56,CycloBlower HE 250CDL750RC1 Low
+,13,750,12,75.5,540,25,69,CycloBlower HE 250CDL750RC1 Low
+,14,750,15,98.7,564,26,86,CycloBlower HE 250CDL750RC1 Low
+,15,750,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,16,825,5,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,17,825,9,56.7,537,24,53,CycloBlower HE 250CDL750RC1 Low
+,18,825,12,78.9,566,26,69,CycloBlower HE 250CDL750RC1 Low
+,19,825,15,102.9,590,27,86,CycloBlower HE 250CDL750RC1 Low
+,20,825,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,21,900,5,32.2,517,24,31,CycloBlower HE 250CDL750RC1 Low
+,22,900,9,59.4,563,26,53,CycloBlower HE 250CDL750RC1 Low
+,23,900,12,82.4,592,27,69,CycloBlower HE 250CDL750RC1 Low
+,24,900,15,107.1,616,28,86,CycloBlower HE 250CDL750RC1 Low
+,25,900,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,26,975,5,33.8,543,25,31,CycloBlower HE 250CDL750RC1 Low
+,27,975,9,62.1,589,27,53,CycloBlower HE 250CDL750RC1 Low
+,28,975,12,85.8,618,28,69,CycloBlower HE 250CDL750RC1 Low
+,29,975,15,111.3,642,29,86,CycloBlower HE 250CDL750RC1 Low
+,30,975,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,31,1050,5,35.6,569,26,31,CycloBlower HE 250CDL750RC1 Low
+,32,1050,9,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,33,1050,12,89.3,644,29,69,CycloBlower HE 250CDL750RC1 Low
+,34,1050,15,115.6,668,30,86,CycloBlower HE 250CDL750RC1 Low
+,35,1050,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,36,1125,5,37.3,596,27,31,CycloBlower HE 250CDL750RC1 Low
+,37,1125,9,67.5,641,29,53,CycloBlower HE 250CDL750RC1 Low
+,38,1125,12,92.8,670,30,69,CycloBlower HE 250CDL750RC1 Low
+,39,1125,15,119.8,694,32,86,CycloBlower HE 250CDL750RC1 Low
+,40,1125,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,41,1200,5,39,622,28,31,CycloBlower HE 250CDL750RC1 Low
+,42,1200,9,70.3,668,30,53,CycloBlower HE 250CDL750RC1 Low
+,43,1200,12,96.3,696,32,69,CycloBlower HE 250CDL750RC1 Low
+,44,1200,15,124,720,33,86,CycloBlower HE 250CDL750RC1 Low
+,45,1200,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,46,1275,5,40.7,648,29,31,CycloBlower HE 250CDL750RC1 Low
+,47,1275,9,73,694,32,53,CycloBlower HE 250CDL750RC1 Low
+,48,1275,12,99.8,722,33,69,CycloBlower HE 250CDL750RC1 Low
+,49,1275,15,128.3,746,34,86,CycloBlower HE 250CDL750RC1 Low
+,50,1275,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,51,1350,5,42.5,674,31,31,CycloBlower HE 250CDL750RC1 Low
+,52,1350,9,75.8,720,33,53,CycloBlower HE 250CDL750RC1 Low
+,53,1350,12,103.3,748,34,69,CycloBlower HE 250CDL750RC1 Low
+,54,1350,15,132.5,772,35,86,CycloBlower HE 250CDL750RC1 Low
+,55,1350,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,56,1425,5,44.3,700,32,31,CycloBlower HE 250CDL750RC1 Low
+,57,1425,9,78.6,746,34,53,CycloBlower HE 250CDL750RC1 Low
+,58,1425,12,106.9,774,35,69,CycloBlower HE 250CDL750RC1 Low
+,59,1425,15,136.8,797,36,86,CycloBlower HE 250CDL750RC1 Low
+,60,1425,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,61,1500,5,46.1,726,33,31,CycloBlower HE 250CDL750RC1 Low
+,62,1500,9,81.4,771,35,53,CycloBlower HE 250CDL750RC1 Low
+,63,1500,12,110.4,800,36,59,CycloBlower HE 250CDL750RC1 Low
+,64,1500,15,141.1,823,37,86,CycloBlower HE 250CDL750RC1 Low
+,65,1500,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+RC2,66,600,5,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,67,600,9,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,68,600,12,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,69,600,15,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,70,600,18,,,,,CycloBlower HE 250CDL750RC1 Low - model not available
+,71,600,20,111.7,524,24,68,CycloBlower H.E. - 250CDL750 RC2 Medium
+,72,675,5,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,73,675,9,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,74,675,12,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,75,675,15,83.3,515,23,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,76,675,18,102.8,536,24,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,77,675,20,116.6,549,25,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,78,750,5,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,79,750,9,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,80,750,12,68.8,520,24,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,81,750,15,87.2,541,25,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,82,750,18,107.3,561,25,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,83,750,20,121.4,574,26,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,84,825,5,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,85,825,9,54.7,524,24,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,86,825,12,72.1,545,25,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,87,825,15,91.2,566,26,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,88,825,18,111.8,586,27,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,89,825,20,126.3,599,27,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,90,900,5,35.9,520,24,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,91,900,9,57.5,549,25,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,92,900,12,75.5,570,26,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,93,900,15,95.1,591,27,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,94,900,18,116.3,611,28,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,95,900,20,,,,,CycloBlower H.E. - 250CDL750 RC2-Medium model not available
+,96,975,5,38,545,25,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,97,975,9,60.3,574,26,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,98,975,12,79,595,27,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,99,975,15,99.1,616,28,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,100,975,18,120.8,636,29,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,101,975,20,136.2,649,29,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,102,1050,5,40.1,571,26,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,103,1050,9,63.2,599,27,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,104,1050,12,82.4,620,28,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,105,1050,15,103.1,641,29,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,106,1050,18,125.4,661,30,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,107,1050,20,141.1,674,31,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,108,1125,5,42.2,596,27,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,109,1125,9,66.1,625,28,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,110,1125,12,85.8,645,29,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,111,1125,15,107.2,666,30,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,112,1125,18,130,686,31,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,113,1125,20,146.1,699,32,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,114,1200,5,44.4,621,28,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,115,1200,9,69,650,30,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,116,1200,12,89.3,671,30,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,117,1200,15,111.2,691,31,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,118,1200,18,134.6,711,32,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,119,1200,20,151,723,33,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,120,1275,5,46.5,646,29,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,121,1275,9,71.9,675,31,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,122,1275,12,92.8,696,32,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,123,1275,15,115.2,716,33,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,124,1275,18,139.2,736,33,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,125,1275,20,156,748,34,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,126,1350,5,48.7,672,31,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,127,1350,9,75.8,720,33,53,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,128,1350,12,96.3,721,33,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,129,1350,15,119.3,741,34,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,130,1350,18,143.8,760,35,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,131,1350,20,161,773,35,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,132,1425,5,50.9,697,32,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,133,1425,9,77.8,725,33,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,134,1425,12,99.8,746,34,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,135,1425,15,123.4,766,35,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,136,1425,18,148.5,785,36,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,137,1425,20,166,798,36,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,138,1500,5,53.1,722,33,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,139,1500,9,80.7,750,34,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,140,1500,12,103.3,771,35,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,141,1500,15,127.5,791,36,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,142,1500,18,153.1,810,37,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,143,1500,20,171.1,823,37,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,144,1575,5,55.3,747,34,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,145,1575,9,83.7,775,35,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,146,1575,12,106.9,796,36,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,147,1575,15,131.6,816,37,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,148,1575,18,157.8,835,38,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,149,1575,20,176.1,848,39,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,150,1650,5,57.5,773,35,18,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,151,1650,9,86.7,801,36,32,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,152,1650,12,110.5,821,37,42,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,153,1650,15,135.8,841,38,52,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,154,1650,18,162.5,860,39,62,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+,155,1650,20,181.2,873,40,68,CycloBlower H.E. - 250CDL750 RC2 Medium (FFL)
+RC3,156,700,12,68.5,513,23,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,157,700,15,84,529,24,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,158,700,18,101,454,25,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,159,700,20,113.2,556,25,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,160,775,12,72.6,539,25,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,161,775,15,88.5,556,25,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,162,775,18,105.8,572,26,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,163,775,20,118.2,582,26,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,164,850,12,76.7,566,26,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,165,850,15,93,582,26,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,166,850,18,110.7,598,27,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,167,850,20,123.3,608,28,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,168,925,12,80.9,592,27,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,169,925,15,97.5,608,28,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,170,925,18,115.6,624,28,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,171,925,20,128.5,635,29,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,172,1000,12,85.1,618,28,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,173,1000,15,102.1,635,29,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,174,1000,18,120.5,651,30,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,175,1000,20,133.7,661,30,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,176,1075,12,88.3,645,29,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,177,1075,15,106.7,661,30,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,178,1075,18,125.5,677,31,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,179,1075,20,138.9,687,31,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,180,1150,12,93.6,671,31,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,181,1150,15,111.3,687,31,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,182,1150,18,130.5,703,32,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,183,1150,20,144.1,713,32,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,184,1225,12,97.9,697,32,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,185,1225,15,116,713,32,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,186,1225,18,135.5,729,33,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,187,1225,20,149.4,739,34,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,188,1300,12,102.2,724,33,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,189,1300,15,120.7,740,34,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,190,1300,18,140.6,755,34,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,191,1300,20,154.7,765,35,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,192,1375,12,106.6,750,34,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,193,1375,15,125.4,766,35,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,194,1375,18,145.7,145.7,36,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,195,1375,20,160,791,36,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,196,1450,12,111,776,35,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,197,1450,15,130.2,792,36,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,198,1450,18,150.8,807,37,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,199,1450,20,165.4,817,37,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,200,1525,12,115.5,802,36,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,201,1525,15,135,818,37,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,202,1525,18,156,833,38,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,203,1525,20,172.7,831,38,68,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,204,1600,12,119.9,828,38,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,205,1600,15,139.8,844,38,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,206,1600,18,161.2,859,39,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,207,1600,20,176.2,869,39,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,208,1675,12,124.4,854,39,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,209,1675,15,144.7,869,40,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,210,1675,18,166.4,885,40,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,211,1675,20,181.7,895,41,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,212,1750,12,129,880,40,35,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,213,1750,15,149.6,895,41,43,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,214,1750,18,171.7,910,41,51,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+,215,1750,20,187.2,920,42,57,CycloBlower H.E. - 250CDL750 RC3 High (FFL)
+RC1 (Low),216,893.1,5,32,515,23,31,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,217,1889.2,5,55.6,861,39,31,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,218,2903.1,5,82.1,1207,55,31,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,219,3934.6,5,111.6,1554,71,31,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,220,4983.9,5,144,1901,86,31,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,221,6050.9,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,222,756.4,9,54.2,513,23,53,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,223,1754.3,9,91,859,39,53,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,224,2769.9,9,130.7,1206,55,53,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,225,3803.3,9,173.3,1553,71,53,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,226,4854.4,9,218.9,1899,86,53,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,227,5923.2,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,228,670.2,12,71.9,512,23,69,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,229,1669.5,12,118.5,858,39,69,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,230,2686.5,12,168,1205,55,69,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,231,3721.2,12,220.6,1552,71,69,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,232,4773.7,12,276,1898,86,69,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,233,5843.8,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,234,598.2,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,235,1598.8,15,146.8,857,39,86,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,236,2617.2,15,206.2,1204,55,86,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,237,3653.2,15,268.6,1550,70,86,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,238,4707,15,333.8,1897,86,86,CycloBlower H.E. - 250CDL750 RC1 Low Compression (FFL)
+,239,5778.5,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,240,2561.9,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,241,3599.3,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,242,4654.4,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,243,5727.3,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+RC2 (Low),244,827.9,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,245,1902.3,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,246,2938.7,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,247,3982.1,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,248,5032.4,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,249,6089.7,5,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,250,785.8,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,251,1819.2,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,252,2859.5,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,253,3906.9,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,254,4961.1,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,255,6022.4,9,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,256,721.9,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,257,1758.3,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,258,2801.6,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,259,3851.9,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,260,4909.1,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,261,5973.4,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,262,659.3,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,263,1698.6,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,264,2744.9,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,265,3798.2,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,266,4858.4,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,267,5925.6,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,268,1640.2,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,269,2689.5,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,270,3745.7,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,271,4808.9,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,272,5879,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,273,1602,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,274,2653.2,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,275,3711.4,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,276,4776.6,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,277,5848.7,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+RC3 (Low),278,692,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,279,1679.6,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,280,2693.6,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,281,3734,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,282,4800.7,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,283,5893.9,12,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,284,644.6,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,285,1634,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,286,2649.8,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,287,3691.9,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,288,4760.5,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,289,5855.4,15,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,290,1589.4,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,291,2606.9,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,292,3650.9,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,293,4721.2,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,294,5817.9,18,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,295,1560.1,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,296,2578.9,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,297,3624,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,298,4695.5,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,299,5793.5,20,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+RC2 (High),300,537.9,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,301,1583.1,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,302,2635.3,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,303,3694.5,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,304,4760.6,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,305,5833.7,21,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,306,1527.2,24,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,307,2582.4,24,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,308,3644.5,24,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,309,4713.6,24,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,310,5789.7,24,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,311,1472.5,27,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,312,2530.7,27,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,313,3595.8,27,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,314,4667.8,27,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,315,5746.8,27,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,316,2480.2,30,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,317,3548.3,30,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,318,4623.3,30,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+,319,5705.3,30,,,,,CycloBlower H.E. - 250CDL750 RC1-Low model not available
+RC3 (High),320,552.8,21,109.4,509,23,60,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,321,1545.7,21,180,855,39,60,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,322,2565,21,258.1,1202,55,60,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,323,3610.8,21,343.5,1549,70,60,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,324,4682.9,21,436.2,1895,86,60,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,325,5781.4,21,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,326,1503,24,200.5,855,39,68,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,327,2524.1,24,283.4,1202,55,68,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,328,3571.6,24,373.4,1549,70,68,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,329,4645.5,24,470.6,1895,86,68,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,330,5745.8,24,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,331,1461.3,27,222.2,855,39,76,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,332,2484.2,27,309.6,1202,55,76,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,333,3533.5,27,404.3,1548,70,76,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,334,4609.1,27,506.2,1895,86,76,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,335,5711.2,27,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,336,2445.2,30,337,1202,55,85,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,337,3496.3,30,436.4,1548,70,85,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,338,4573.7,30,542.9,1895,86,85,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,339,5677.6,30,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,340,2407.2,33,365.5,1201,55,93,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,341,3460,33,469.5,1548,70,93,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,342,4539.3,33,580.6,1894,86,93,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL
+,342,5644.9,33,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,343,3424.8,36,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,344,4505.8,36,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available
+,345,5613.2,36,,,,,CycloBlower H.E. - 250CDL750 RC3 High Compression FFL  model not available

@@ -1,0 +1,77 @@
+4HR/4HVR - High Pressure Performance Data,,,,,,,
+Airflow Range: 90-200 SCFM,,,Interval: 10 SCFM,,,RPM Range: 1760-2620,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,90,7,4.8,1960,54,50,Sutorbilt Legend - 4HR
+2,90,8,5.6,2000,56,57,Sutorbilt Legend - 4HR
+3,90,9,6.3,2038,57,63,Sutorbilt Legend - 4HR
+4,90,11,7.9,2109,59,77,Sutorbilt Legend - 4HR
+5,90,13,,,,,Sutorbilt Legend - 4HR model not available
+6,90,15,,,,,Sutorbilt Legend - 4HR model not available
+7,100,7,5.2,2108,59,50,Sutorbilt Legend - 4HR
+8,100,8,6,2148,60,57,Sutorbilt Legend - 4HR
+9,100,9,6.8,2186,61,63,Sutorbilt Legend - 4HR
+10,100,11,8.5,2257,63,77,Sutorbilt Legend - 4HR
+11,100,13,,,,,Sutorbilt Legend - 4HR model not available
+12,100,15,,,,,Sutorbilt Legend - 4HR model not available
+13,110,7,5.5,2256,63,50,Sutorbilt Legend - 4HR
+14,110,8,6.4,2296,64,57,Sutorbilt Legend - 4HR
+15,110,9,7.3,2334,65,63,Sutorbilt Legend - 4HR
+16,110,11,9,2405,67,77,Sutorbilt Legend - 4HR
+17,110,13,,,,,Sutorbilt Legend - 4HR model not available
+18,110,15,,,,,Sutorbilt Legend - 4HR model not available
+19,120,7,5.9,2404,67,50,Sutorbilt Legend - 4HR
+20,120,8,,,,,Sutorbilt Legend - 4HR model not available
+21,120,9,7.7,2482,69,63,Sutorbilt Legend - 4HR
+22,120,11,9.6,2553,71,77,Sutorbilt Legend - 4HR
+23,120,13,11.6,2618,73,90,Sutorbilt Legend - 4HR
+24,120,15,,,,,Sutorbilt Legend - 4HR model not available
+25,130,7,6.3,2552,71,50,Sutorbilt Legend - 4HR
+26,130,8,7.2,2592,72,57,Sutorbilt Legend - 4HR
+27,130,9,8.2,2630,73,63,Sutorbilt Legend - 4HR
+28,130,11,10.2,2701,75,77,Sutorbilt Legend - 4HR
+29,130,13,12.2,2766,77,90,Sutorbilt Legend - 4HR
+30,130,15,,,,,Sutorbilt Legend - 4HR model not available
+31,140,7,6.6,2699,75,50,Sutorbilt Legend - 4HR
+32,140,8,7.6,2740,76,57,Sutorbilt Legend - 4HR
+33,140,9,8.6,2778,77,63,Sutorbilt Legend - 4HR
+34,140,11,10.7,2849,79,77,Sutorbilt Legend - 4HR
+35,140,13,12.9,2914,81,90,Sutorbilt Legend - 4HR
+36,140,15,,,,,Sutorbilt Legend - 4HR model not available
+37,150,7,7,2847,79,50,Sutorbilt Legend - 4HR
+38,150,8,8,2888,80,57,Sutorbilt Legend - 4HR
+39,150,9,9.1,2926,81,63,Sutorbilt Legend - 4HR
+40,150,11,11.3,2997,83,77,Sutorbilt Legend - 4HR
+41,150,13,13.5,3062,85,90,Sutorbilt Legend - 4HR
+42,150,15,,,,,Sutorbilt Legend - 4HR model not available
+43,160,7,7.3,2995,83,50,Sutorbilt Legend - 4HR
+44,160,8,8.4,3036,84,57,Sutorbilt Legend - 4HR
+45,160,9,9.6,3074,85,63,Sutorbilt Legend - 4HR
+46,160,11,11.8,3145,87,77,Sutorbilt Legend - 4HR
+47,160,13,14.2,3210,89,90,Sutorbilt Legend - 4HR
+48,160,15,,,,,Sutorbilt Legend - 4HR model not available
+49,170,7,7.7,3143,87,50,Sutorbilt Legend - 4HR
+50,170,8,8.9,3184,88,57,Sutorbilt Legend - 4HR
+51,170,9,10,3222,90,63,Sutorbilt Legend - 4HR
+52,170,11,12.4,3293,91,77,Sutorbilt Legend - 4HR
+53,170,13,14.8,3358,93,90,Sutorbilt Legend - 4HR
+54,170,15,,,,,Sutorbilt Legend - 4HR model not available
+55,180,7,8.1,3291,91,50,Sutorbilt Legend - 4HR
+56,180,8,9.3,3332,93,57,Sutorbilt Legend - 4HR
+57,180,9,10.5,3370,94,63,Sutorbilt Legend - 4HR
+58,180,11,12.9,3441,96,77,Sutorbilt Legend - 4HR
+59,180,13,15.5,3506,97,90,Sutorbilt Legend - 4HR
+60,180,15,,,,,Sutorbilt Legend - 4HR model not available
+61,190,7,8.4,3439,96,50,Sutorbilt Legend - 4HR
+62,190,8,9.7,3480,97,57,Sutorbilt Legend - 4HR
+63,190,9,10.9,3518,98,63,Sutorbilt Legend - 4HR
+64,190,11,13.5,3589,100,77,Sutorbilt Legend - 4HR
+65,190,13,,,,,Sutorbilt Legend - 4HR model not available
+66,190,15,,,,,Sutorbilt Legend - 4HR model not available
+67,200,7,8.8,3587,100,50,Sutorbilt Legend - 4HR
+68,200,8,,,,,Sutorbilt Legend - 4HR model not available
+69,200,9,,,,,Sutorbilt Legend - 4HR model not available
+70,200,11,,,,,Sutorbilt Legend - 4HR model not available
+71,200,13,,,,,Sutorbilt Legend - 4HR model not available
+72,200,15,,,,,Sutorbilt Legend - 4HR model not available

@@ -1,0 +1,83 @@
+6HR/6HVR - High Pressure Performance Data,,,,,,,
+Airflow Range: 280-520 SCFM,,,Interval: 20 SCFM,,,RPM Range: 1170-2350,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,280,7,11.1,1619,69,50,Sutorbilt Legend - 6H
+2,280,8,15,1642,70,57,Sutorbilt Legend - 6H
+3,280,9,17,1664,71,63,Sutorbilt Legend - 6H
+4,280,11,21.1,1705,73,77,Sutorbilt Legend - 6H
+5,280,13,25.3,1742,74,90,Sutorbilt Legend - 6H
+6,280,15,,,,,Sutorbilt Legend - 6H  model not available
+7,300,7,13.8,1709,73,50,Sutorbilt Legend - 6H
+8,300,8,15.8,1732,74,57,Sutorbilt Legend - 6H
+9,300,9,17.9,1754,75,63,Sutorbilt Legend - 6H
+10,300,11,22.2,1796,76,77,Sutorbilt Legend - 6H
+11,300,13,26.6,1832,78,90,Sutorbilt Legend - 6H
+12,300,15,,,,,Sutorbilt Legend - 6H  model not available
+13,320,7,14.5,1799,77,50,Sutorbilt Legend - 6H
+14,320,8,16.7,1822,78,57,Sutorbilt Legend - 6H
+15,320,9,18.8,1844,78,63,Sutorbilt Legend - 6H
+16,320,11,23.3,1885,80,77,Sutorbilt Legend - 6H
+17,320,13,27.9,1922,82,90,Sutorbilt Legend - 6H
+18,320,15,,,,,Sutorbilt Legend - 6H  model not available
+19,340,7,15.2,1889,80,50,Sutorbilt Legend - 6H
+20,340,8,17.5,1912,81,57,Sutorbilt Legend - 6H
+21,340,9,19.8,1934,82,63,Sutorbilt Legend - 6H
+22,340,11,24.4,1975,84,77,Sutorbilt Legend - 6H
+23,340,13,29.2,2012,86,90,Sutorbilt Legend - 6H
+24,340,15,,,,,Sutorbilt Legend - 6H  model not available
+25,360,7,16,1979,84,50,Sutorbilt Legend - 6H
+26,360,8,18.3,2002,85,57,Sutorbilt Legend - 6H
+27,360,9,20.7,2024,86,63,Sutorbilt Legend - 6H
+28,360,11,25.5,2064,88,77,Sutorbilt Legend - 6H
+29,360,13,30.5,2102,89,90,Sutorbilt Legend - 6H
+30,360,15,,,,,Sutorbilt Legend - 6H  model not available
+31,380,7,16.7,2069,88,50,Sutorbilt Legend - 6H
+32,380,8,19.1,2092,89,57,Sutorbilt Legend - 6H
+33,380,9,21.6,2114,90,63,Sutorbilt Legend - 6H
+34,380,11,26.7,2154,92,77,Sutorbilt Legend - 6H
+35,380,13,31.8,2192,93,90,Sutorbilt Legend - 6H
+36,380,15,,,,,Sutorbilt Legend - 6H  model not available
+37,400,7,17.4,2159,92,50,Sutorbilt Legend - 6H
+38,400,8,20,2182,93,57,Sutorbilt Legend - 6H
+39,400,9,22.5,2204,94,63,Sutorbilt Legend - 6H
+40,400,11,27.8,2244,96,77,Sutorbilt Legend - 6H
+41,400,13,33.1,2282,97,90,Sutorbilt Legend - 6H
+42,400,15,,,,,Sutorbilt Legend - 6H  model not available
+43,420,7,18.1,2249,96,50,Sutorbilt Legend - 6H
+44,420,8,20.8,2272,97,57,Sutorbilt Legend - 6H
+45,420,9,23.4,2294,98,63,Sutorbilt Legend - 6H
+46,420,11,28.9,2334,99,77,Sutorbilt Legend - 6H
+47,420,13,,,,,Sutorbilt Legend - 6H  model not available
+48,420,15,,,,,Sutorbilt Legend - 6H  model not available
+49,440,7,18.9,2339,100,50,Sutorbilt Legend - 6H
+50,440,8,,,,,Sutorbilt Legend - 6H  model not available
+51,440,9,,,,,Sutorbilt Legend - 6H  model not available
+52,440,11,,,,,Sutorbilt Legend - 6H  model not available
+53,440,13,,,,,Sutorbilt Legend - 6H  model not available
+54,440,15,,,,,Sutorbilt Legend - 6H  model not available
+55,460,7,,,,,Sutorbilt Legend - 6H  model not available
+56,460,8,,,,,Sutorbilt Legend - 6H  model not available
+57,460,9,,,,,Sutorbilt Legend - 6H  model not available
+58,460,11,,,,,Sutorbilt Legend - 6H  model not available
+59,460,13,,,,,Sutorbilt Legend - 6H  model not available
+60,460,15,,,,,Sutorbilt Legend - 6H  model not available
+61,480,7,,,,,Sutorbilt Legend - 6H  model not available
+62,480,8,,,,,Sutorbilt Legend - 6H  model not available
+63,480,9,,,,,Sutorbilt Legend - 6H  model not available
+64,480,11,,,,,Sutorbilt Legend - 6H  model not available
+65,480,13,,,,,Sutorbilt Legend - 6H  model not available
+66,480,15,,,,,Sutorbilt Legend - 6H  model not available
+67,500,7,,,,,Sutorbilt Legend - 6H  model not available
+68,500,8,,,,,Sutorbilt Legend - 6H  model not available
+69,500,9,,,,,Sutorbilt Legend - 6H  model not available
+70,500,11,,,,,Sutorbilt Legend - 6H  model not available
+71,500,13,,,,,Sutorbilt Legend - 6H  model not available
+72,500,15,,,,,Sutorbilt Legend - 6H  model not available
+73,520,7,,,,,Sutorbilt Legend - 6H  model not available
+74,520,8,,,,,Sutorbilt Legend - 6H  model not available
+75,520,9,,,,,Sutorbilt Legend - 6H  model not available
+76,520,11,,,,,Sutorbilt Legend - 6H  model not available
+77,520,13,,,,,Sutorbilt Legend - 6H  model not available
+78,520,15,,,,,Sutorbilt Legend - 6H  model not available

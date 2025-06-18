@@ -1,0 +1,83 @@
+3LR/3LVR - Low Pressure Performance Data,,,,,,,
+Airflow Range: 140-320 SCFM,,,Interval: 15 SCFM,,,RPM Range: 2265-3600,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,140,2,2.3,1742,48,36,Sutorbilt Legend - 3L
+2,140,3,3.3,1809,50,50,Sutorbilt Legend - 3L
+3,140,4,4.3,1867,52,64,Sutorbilt Legend - 3L
+4,140,5,5.2,1919,53,79,Sutorbilt Legend - 3L
+5,140,6,6.3,1967,55,93,Sutorbilt Legend - 3L 
+6,140,7,,,,,Sutorbilt Legend - 3L model not available
+7,155,2,2.5,1889,52,36,Sutorbilt Legend - 3L 
+8,155,3,3.6,1956,54,50,Sutorbilt Legend - 3L 
+9,155,4,4.7,2014,56,64,Sutorbilt Legend - 3L 
+10,155,5,5.6,2066,57,79,Sutorbilt Legend - 3L 
+11,155,6,6.8,2114,59,93,Sutorbilt Legend - 3L 
+12,155,7,,,,,Sutorbilt Legend - 3L model not available
+13,170,2,2.7,2036,57,36,Sutorbilt Legend - 3L 
+14,170,3,3.8,2104,58,50,Sutorbilt Legend - 3L 
+15,170,4,5,2162,60,64,Sutorbilt Legend - 3L 
+16,170,5,6,2214,61,79,Sutorbilt Legend - 3L 
+17,170,6,7.2,2261,63,93,Sutorbilt Legend - 3L 
+18,170,7,,,,,Sutorbilt Legend - 3L model not available
+19,185,2,2.9,2184,61,36,Sutorbilt Legend - 3L 
+20,185,3,4.1,2251,63,50,Sutorbilt Legend - 3L 
+21,185,4,5.1,2309,64,64,Sutorbilt Legend - 3L 
+22,185,5,6.4,2361,66,79,Sutorbilt Legend - 3L 
+23,185,6,7.7,2408,67,93,Sutorbilt Legend - 3L 
+24,185,7,,,,,Sutorbilt Legend - 3L model not available
+25,200,2,3.1,2331,65,36,Sutorbilt Legend - 3L 
+26,200,3,4.3,2398,67,50,Sutorbilt Legend - 3L 
+27,200,4,5.4,2456,68,64,Sutorbilt Legend - 3L 
+28,200,5,6.8,2508,70,79,Sutorbilt Legend - 3L 
+29,200,6,8.2,2556,71,93,Sutorbilt Legend - 3L 
+30,200,7,,,,,Sutorbilt Legend - 3L model not available
+31,215,2,3.3,2478,69,36,Sutorbilt Legend - 3L 
+32,215,3,4.6,2545,71,50,Sutorbilt Legend - 3L 
+33,215,4,5.8,2604,72,64,Sutorbilt Legend - 3L 
+34,215,5,7.2,2656,74,79,Sutorbilt Legend - 3L 
+35,215,6,8.7,2703,75,93,Sutorbilt Legend - 3L 
+36,215,7,,,,,Sutorbilt Legend - 3L model not available
+37,230,2,3.4,2625,73,36,Sutorbilt Legend - 3L 
+38,230,3,4.8,2693,75,50,Sutorbilt Legend - 3L 
+39,230,4,6.1,2751,76,64,Sutorbilt Legend - 3L 
+40,230,5,7.6,2803,78,79,Sutorbilt Legend - 3L 
+41,230,6,9.1,2850,79,93,Sutorbilt Legend - 3L 
+42,230,7,,,,,Sutorbilt Legend - 3L model not available
+43,245,2,3.6,2773,77,36,Sutorbilt Legend - 3L 
+44,245,3,5.1,2840,79,50,Sutorbilt Legend - 3L 
+45,245,4,6.4,2898,81,64,Sutorbilt Legend - 3L 
+46,245,5,8,2950,82,79,Sutorbilt Legend - 3L 
+47,245,6,9.6,2998,83,93,Sutorbilt Legend - 3L 
+48,245,7,,,,,Sutorbilt Legend - 3L model not available
+49,260,2,3.8,2920,81,36,Sutorbilt Legend - 3L 
+50,260,3,5.2,2987,83,50,Sutorbilt Legend - 3L 
+51,260,4,6.8,3045,85,64,Sutorbilt Legend - 3L 
+52,260,5,8.4,3097,86,79,Sutorbilt Legend - 3L 
+53,260,6,10.1,3145,87,93,Sutorbilt Legend - 3L 
+54,260,7,,,,,Sutorbilt Legend - 3L model not available
+55,275,2,4,3067,85,36,Sutorbilt Legend - 3L 
+56,275,3,5.4,3134,87,50,Sutorbilt Legend - 3L 
+57,275,4,7.1,3193,89,64,Sutorbilt Legend - 3L 
+58,275,5,8.8,3245,90,79,Sutorbilt Legend - 3L 
+59,275,6,10.5,3292,91,93,Sutorbilt Legend - 3L 
+60,275,7,,,,,Sutorbilt Legend - 3L model not available
+61,290,2,4.2,3214,89,36,Sutorbilt Legend - 3L 
+62,290,3,5.7,3282,91,50,Sutorbilt Legend - 3L 
+63,290,4,7.4,3340,93,64,Sutorbilt Legend - 3L 
+64,290,5,9.2,3392,94,79,Sutorbilt Legend - 3L 
+65,290,6,11,3439,96,93,Sutorbilt Legend - 3L 
+66,290,7,,,,,Sutorbilt Legend - 3L model not available
+67,305,2,4.3,3362,93,36,Sutorbilt Legend - 3L 
+68,305,3,5.9,3429,95,50,Sutorbilt Legend - 3L 
+69,305,4,7.7,3487,97,64,Sutorbilt Legend - 3L 
+70,305,5,9.6,3539,98,79,Sutorbilt Legend - 3L 
+71,305,6,11.5,3587,100,93,Sutorbilt Legend - 3L 
+72,305,7,,,,,Sutorbilt Legend - 3L model not available
+73,320,2,4.5,3509,97,36,Sutorbilt Legend - 3L 
+74,320,3,6.2,3576,99,50,Sutorbilt Legend - 3L 
+75,320,4,,,,,Sutorbilt Legend - 3L model not available
+76,320,5,,,,,Sutorbilt Legend - 3L model not available
+77,320,6,,,,,Sutorbilt Legend - 3L model not available
+78,320,7,,,,,Sutorbilt Legend - 3L model not available

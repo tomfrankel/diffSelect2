@@ -1,0 +1,95 @@
+4LR/4LVR - Low Pressure Performance Data,,,,,,,
+Airflow Range: 230-580 SCFM,,,Interval: 25 SCFM,,,RPM Range: 2190-3600,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,230,2,3.6,1686,47,36,Sutorbilt Legend - 4L
+2,230,3,5.1,1742,48,50,Sutorbilt Legend - 4L
+3,230,4,6.5,1791,50,64,Sutorbilt Legend - 4L
+4,230,5,8.1,1834,51,79,Sutorbilt Legend - 4L
+5,230,6,9.8,1873,52,93,Sutorbilt Legend - 4L
+6,230,7,,,,,Sutorbilt Legend - 4L  model not available
+7,255,2,3.9,1837,51,36,Sutorbilt Legend - 4L
+8,255,3,5.3,1892,53,50,Sutorbilt Legend - 4L
+9,255,4,7,1941,54,64,Sutorbilt Legend - 4L
+10,255,5,8.8,1984,55,79,Sutorbilt Legend - 4L
+11,255,6,10.6,2023,56,93,Sutorbilt Legend - 4L
+12,255,7,,,,,Sutorbilt Legend - 4L  model not available
+13,280,2,4.2,1987,55,36,Sutorbilt Legend - 4L
+14,280,3,5.8,2043,57,50,Sutorbilt Legend - 4L
+15,280,4,7.6,2091,58,64,Sutorbilt Legend - 4L
+16,280,5,9.5,2134,59,79,Sutorbilt Legend - 4L
+17,280,6,11.4,2173,60,93,Sutorbilt Legend - 4L
+18,280,7,,,,,Sutorbilt Legend - 4L  model not available
+19,305,2,4.5,2137,59,36,Sutorbilt Legend - 4L
+20,305,3,6.2,2193,61,50,Sutorbilt Legend - 4L
+21,305,4,8.1,2241,62,64,Sutorbilt Legend - 4L
+22,305,5,10.1,2284,63,79,Sutorbilt Legend - 4L
+23,305,6,12.2,2324,65,59,Sutorbilt Legend - 4L
+24,305,7,,,,,Sutorbilt Legend - 4L  model not available
+25,330,2,4.8,2287,64,36,Sutorbilt Legend - 4L
+26,330,3,6.6,2343,65,50,Sutorbilt Legend - 4L
+27,330,4,8.7,2391,66,64,Sutorbilt Legend - 4L
+28,330,5,10.8,2434,68,79,Sutorbilt Legend - 4L
+29,330,6,13,2474,69,93,Sutorbilt Legend - 4L
+30,330,7,,,,,Sutorbilt Legend - 4L  model not available
+31,355,2,5.1,2437,68,36,Sutorbilt Legend - 4L
+32,355,3,7,2493,69,50,Sutorbilt Legend - 4L
+33,355,4,9.2,2541,71,64,Sutorbilt Legend - 4L
+34,355,5,11.5,2585,72,79,Sutorbilt Legend - 4L
+35,355,6,13.7,2624,73,93,Sutorbilt Legend - 4L
+36,355,7,,,,,Sutorbilt Legend - 4L  model not available
+37,380,2,5.2,2587,72,36,Sutorbilt Legend - 4L
+38,380,3,7.5,2643,73,50,Sutorbilt Legend - 4L
+39,380,4,9.8,2691,75,64,Sutorbilt Legend - 4L
+40,380,5,12.1,2735,76,79,Sutorbilt Legend - 4L
+41,380,6,14.5,2774,77,93,Sutorbilt Legend - 4L
+42,380,7,,,,,Sutorbilt Legend - 4L  model not available
+43,405,2,5.5,2737,76,36,Sutorbilt Legend - 4L
+44,405,3,7.9,2793,78,50,Sutorbilt Legend - 4L
+45,405,4,10.3,2842,79,64,Sutorbilt Legend - 4L
+46,405,5,12.8,2885,80,79,Sutorbilt Legend - 4L
+47,405,6,15.3,2924,81,93,Sutorbilt Legend - 4L
+48,405,7,,,,,Sutorbilt Legend - 4L  model not available
+49,430,2,5.8,2888,80,36,Sutorbilt Legend - 4L
+50,430,3,8.3,2943,82,50,Sutorbilt Legend - 4L
+51,430,4,10.8,2992,83,64,Sutorbilt Legend - 4L
+52,430,5,13.5,3035,84,79,Sutorbilt Legend - 4L
+53,430,6,16.1,3074,85,93,Sutorbilt Legend - 4L
+54,430,7,,,,,Sutorbilt Legend - 4L  model not available
+55,455,2,6.1,3038,84,36,Sutorbilt Legend - 4L
+56,455,3,8.7,3094,86,50,Sutorbilt Legend - 4L
+57,455,4,11.4,3142,87,64,Sutorbilt Legend - 4L
+58,455,5,14.1,3185,88,79,Sutorbilt Legend - 4L
+59,455,6,16.9,3225,90,93,Sutorbilt Legend - 4L
+60,455,7,,,,,Sutorbilt Legend - 4L  model not available
+61,480,2,6.4,3188,89,36,Sutorbilt Legend - 4L
+62,480,3,9.1,3244,90,50,Sutorbilt Legend - 4L
+63,480,4,11.9,3292,91,64,Sutorbilt Legend - 4L
+64,480,5,14.8,3335,93,79,Sutorbilt Legend - 4L
+65,480,6,17.7,3375,94,93,Sutorbilt Legend - 4L
+66,480,7,,,,,Sutorbilt Legend - 4L  model not available
+67,505,2,6.7,3338,93,36,Sutorbilt Legend - 4L
+68,505,3,9.6,3394,94,50,Sutorbilt Legend - 4L
+69,505,4,12.5,3442,96,64,Sutorbilt Legend - 4L
+70,505,5,15.4,3485,97,79,Sutorbilt Legend - 4L
+71,505,6,18.5,3525,98,93,Sutorbilt Legend - 4L
+72,505,7,,,,,Sutorbilt Legend - 4L  model not available
+73,530,2,7,3488,97,36,Sutorbilt Legend - 4L
+74,530,3,10,3544,98,50,Sutorbilt Legend - 4L
+75,530,4,13,3592,100,64,Sutorbilt Legend - 4L
+76,530,5,,,,,Sutorbilt Legend - 4L  model not available
+77,530,6,,,,,Sutorbilt Legend - 4L  model not available
+78,530,7,,,,,Sutorbilt Legend - 4L  model not available
+79,555,2,,,,,Sutorbilt Legend - 4L  model not available
+80,555,3,,,,,Sutorbilt Legend - 4L  model not available
+81,555,4,,,,,Sutorbilt Legend - 4L  model not available
+82,555,5,,,,,Sutorbilt Legend - 4L  model not available
+83,555,6,,,,,Sutorbilt Legend - 4L  model not available
+84,555,7,,,,,Sutorbilt Legend - 4L  model not available
+85,580,2,,,,,Sutorbilt Legend - 4L  model not available
+86,580,3,,,,,Sutorbilt Legend - 4L  model not available
+87,580,4,,,,,Sutorbilt Legend - 4L  model not available
+88,580,5,,,,,Sutorbilt Legend - 4L  model not available
+89,580,6,,,,,Sutorbilt Legend - 4L  model not available
+90,580,7,,,,,Sutorbilt Legend - 4L  model not available

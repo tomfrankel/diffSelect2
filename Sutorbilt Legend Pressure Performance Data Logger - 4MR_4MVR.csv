@@ -1,0 +1,95 @@
+4MR/4MVR - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 140-350 SCFM,,,Interval: 15 SCFM,,,RPM Range: 1700-3600,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,140,8,8.5,1811,50,85,Sutorbilt Legend - 4M
+2,140,9,9.7,1844,51,95,Sutorbilt Legend - 4M
+3,140,10,,,,,Sutorbilt Legend - 4M  model not available
+4,140,12,,,,,Sutorbilt Legend - 4M  model not available
+5,140,13,,,,,Sutorbilt Legend - 4M  model not available
+6,140,14,,,,,Sutorbilt Legend - 4M  model not available
+7,155,8,9.2,1942,54,85,Sutorbilt Legend - 4M
+8,155,9,10.4,1975,55,95,Sutorbilt Legend - 4M
+9,155,10,,,,,Sutorbilt Legend - 4M  model not available
+10,155,12,,,,,Sutorbilt Legend - 4M  model not available
+11,155,13,,,,,Sutorbilt Legend - 4M  model not available
+12,155,14,,,,,Sutorbilt Legend - 4M  model not available
+13,170,8,9.8,2072,58,85,Sutorbilt Legend - 4M
+14,170,9,11.1,2106,59,95,Sutorbilt Legend - 4M
+15,170,10,,,,,Sutorbilt Legend - 4M  model not available
+16,170,12,,,,,Sutorbilt Legend - 4M  model not available
+17,170,13,,,,,Sutorbilt Legend - 4M  model not available
+18,170,14,,,,,Sutorbilt Legend - 4M  model not available
+19,185,8,10.4,2203,61,85,Sutorbilt Legend - 4M
+20,185,9,11.8,2237,62,95,Sutorbilt Legend - 4M
+21,185,10,,,,,Sutorbilt Legend - 4M  model not available
+22,185,12,,,,,Sutorbilt Legend - 4M  model not available
+23,185,13,,,,,Sutorbilt Legend - 4M  model not available
+24,185,14,,,,,Sutorbilt Legend - 4M  model not available
+25,200,8,11,2334,65,85,Sutorbilt Legend - 4M
+26,200,9,12.5,2368,66,95,Sutorbilt Legend - 4M
+27,200,10,,,,,Sutorbilt Legend - 4M  model not available
+28,200,12,,,,,Sutorbilt Legend - 4M  model not available
+29,200,13,,,,,Sutorbilt Legend - 4M  model not available
+30,200,14,,,,,Sutorbilt Legend - 4M  model not available
+31,215,8,11.6,2465,68,85,Sutorbilt Legend - 4M
+32,215,9,13.2,2499,69,95,Sutorbilt Legend - 4M
+33,215,10,,,,,Sutorbilt Legend - 4M  model not available
+34,215,12,,,,,Sutorbilt Legend - 4M  model not available
+35,215,13,,,,,Sutorbilt Legend - 4M  model not available
+36,215,14,,,,,Sutorbilt Legend - 4M  model not available
+37,230,8,12.2,2596,72,85,Sutorbilt Legend - 4M
+38,230,9,13.9,2630,73,95,Sutorbilt Legend - 4M
+39,230,10,,,,,Sutorbilt Legend - 4M  model not available
+40,230,12,,,,,Sutorbilt Legend - 4M  model not available
+41,230,13,,,,,Sutorbilt Legend - 4M  model not available
+42,230,14,,,,,Sutorbilt Legend - 4M  model not available
+43,245,8,12.9,2727,76,85,Sutorbilt Legend - 4M
+44,245,9,14.5,2761,77,95,Sutorbilt Legend - 4M
+45,245,10,,,,,Sutorbilt Legend - 4M  model not available
+46,245,12,,,,,Sutorbilt Legend - 4M  model not available
+47,245,13,,,,,Sutorbilt Legend - 4M  model not available
+48,245,14,,,,,Sutorbilt Legend - 4M  model not available
+49,260,8,13.5,2858,79,85,Sutorbilt Legend - 4M
+50,260,9,15.2,2892,80,95,Sutorbilt Legend - 4M
+51,260,10,,,,,Sutorbilt Legend - 4M  model not available
+52,260,12,,,,,Sutorbilt Legend - 4M  model not available
+53,260,13,,,,,Sutorbilt Legend - 4M  model not available
+54,260,14,,,,,Sutorbilt Legend - 4M  model not available
+55,275,8,14.1,2989,83,85,Sutorbilt Legend - 4M
+56,275,9,15.9,3022,84,95,Sutorbilt Legend - 4M
+57,275,10,,,,,Sutorbilt Legend - 4M  model not available
+58,275,12,,,,,Sutorbilt Legend - 4M  model not available
+59,275,13,,,,,Sutorbilt Legend - 4M  model not available
+60,275,14,,,,,Sutorbilt Legend - 4M  model not available
+61,290,8,14.7,3120,87,85,Sutorbilt Legend - 4M
+62,290,9,16.6,3153,88,95,Sutorbilt Legend - 4M
+63,290,10,,,,,Sutorbilt Legend - 4M  model not available
+64,290,12,,,,,Sutorbilt Legend - 4M  model not available
+65,290,13,,,,,Sutorbilt Legend - 4M  model not available
+66,290,14,,,,,Sutorbilt Legend - 4M  model not available
+67,305,8,15.3,3251,90,85,Sutorbilt Legend - 4M
+68,305,9,17.3,3284,91,95,Sutorbilt Legend - 4M
+69,305,10,,,,,Sutorbilt Legend - 4M  model not available
+70,305,12,,,,,Sutorbilt Legend - 4M  model not available
+71,305,13,,,,,Sutorbilt Legend - 4M  model not available
+72,305,14,,,,,Sutorbilt Legend - 4M  model not available
+73,320,8,15.9,3381,94,85,Sutorbilt Legend - 4M
+74,320,9,18,3415,95,95,Sutorbilt Legend - 4M
+75,320,10,,,,,Sutorbilt Legend - 4M  model not available
+76,320,12,,,,,Sutorbilt Legend - 4M  model not available
+77,320,13,,,,,Sutorbilt Legend - 4M  model not available
+78,320,14,,,,,Sutorbilt Legend - 4M  model not available
+79,335,8,16.6,3512,98,85,Sutorbilt Legend - 4M
+80,335,9,18.7,3546,98,95,Sutorbilt Legend - 4M
+81,335,10,,,,,Sutorbilt Legend - 4M  model not available
+82,335,12,,,,,Sutorbilt Legend - 4M  model not available
+83,335,13,,,,,Sutorbilt Legend - 4M  model not available
+84,335,14,,,,,Sutorbilt Legend - 4M  model not available
+85,350,8,,,,,Sutorbilt Legend - 4M  model not available
+86,350,9,,,,,Sutorbilt Legend - 4M  model not available
+87,350,10,,,,,Sutorbilt Legend - 4M  model not available
+88,350,12,,,,,Sutorbilt Legend - 4M  model not available
+89,350,13,,,,,Sutorbilt Legend - 4M  model not available
+90,350,14,,,,,Sutorbilt Legend - 4M  model not available

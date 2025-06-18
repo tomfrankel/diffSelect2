@@ -1,0 +1,83 @@
+7HP/7HVP - High Pressure Performance Data,,,,,,,
+Airflow Range: 350-650 SCFM,,,Interval: 25 SCFM,,,RPM Range: 1170-2050,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,350,7,16.3,1250,61,50,Sutorbilt Legend - 7H
+2,350,8,18.8,1268,62,57,Sutorbilt Legend - 7H
+3,350,9,21.2,1285,63,63,Sutorbilt Legend - 7H
+4,350,11,26.3,1316,64,77,Sutorbilt Legend - 7H
+5,350,13,31.6,1345,66,90,Sutorbilt Legend - 7H
+6,350,15,,,,,Sutorbilt Legend - 7H  model not available
+7,375,7,17.2,1320,64,50,Sutorbilt Legend - 7H
+8,375,8,19.8,1338,65,57,Sutorbilt Legend - 7H
+9,375,9,22.4,1355,66,63,Sutorbilt Legend - 7H
+10,375,11,26.4,2132,91,77,Sutorbilt Legend - 7H
+11,375,13,33.2,1414,69,90,Sutorbilt Legend - 7H
+12,375,15,,,,,Sutorbilt Legend - 7H  model not available
+13,400,7,18.1,1389,68,50,Sutorbilt Legend - 7H
+14,400,8,20.8,1407,69,57,Sutorbilt Legend - 7H
+15,400,9,23.5,1424,69,63,Sutorbilt Legend - 7H
+16,400,11,29.1,1455,71,77,Sutorbilt Legend - 7H
+17,400,13,34.8,1484,72,90,Sutorbilt Legend - 7H
+18,400,15,,,,,Sutorbilt Legend - 7H  model not available
+19,425,7,19,1459,71,50,Sutorbilt Legend - 7H
+20,425,8,21.8,1477,72,57,Sutorbilt Legend - 7H
+21,425,9,24.7,1494,73,63,Sutorbilt Legend - 7H
+22,425,11,30.5,1525,74,77,Sutorbilt Legend - 7H
+23,425,13,36.5,1553,76,90,Sutorbilt Legend - 7H
+24,425,15,,,,,Sutorbilt Legend - 7H  model not available
+25,450,7,19.9,1529,75,50,Sutorbilt Legend - 7H
+26,450,8,22.9,1546,75,57,Sutorbilt Legend - 7H
+27,450,9,25.8,1563,76,63,Sutorbilt Legend - 7H
+28,450,11,31.9,1594,78,77,Sutorbilt Legend - 7H
+29,450,13,38.1,1623,79,90,Sutorbilt Legend - 7H
+30,450,15,,,,,Sutorbilt Legend - 7H  model not available
+31,475,7,20.8,1598,78,50,Sutorbilt Legend - 7H
+32,475,8,23.9,1616,79,57,Sutorbilt Legend - 7H
+33,475,9,27,1633,80,63,Sutorbilt Legend - 7H
+34,475,11,33.3,1664,81,77,Sutorbilt Legend - 7H
+35,475,13,39.7,1693,83,90,Sutorbilt Legend - 7H
+36,475,15,,,,,Sutorbilt Legend - 7H  model not available
+37,500,7,21.8,1668,81,50,Sutorbilt Legend - 7H
+38,500,8,24.9,1685,82,57,Sutorbilt Legend - 7H
+39,500,9,28.1,1702,83,63,Sutorbilt Legend - 7H
+40,500,11,34.7,1734,85,77,Sutorbilt Legend - 7H
+41,500,13,41.4,1762,86,90,Sutorbilt Legend - 7H
+42,500,15,,,,,Sutorbilt Legend - 7H  model not available
+43,525,7,22.7,1737,85,50,Sutorbilt Legend - 7H
+44,525,8,26,1755,86,57,Sutorbilt Legend - 7H
+45,525,9,29.3,1772,86,63,Sutorbilt Legend - 7H
+46,525,11,36.1,1803,88,77,Sutorbilt Legend - 7H
+47,525,13,43,1832,89,90,Sutorbilt Legend - 7H
+48,525,15,,,,,Sutorbilt Legend - 7H  model not available
+49,550,7,23.6,1807,88,50,Sutorbilt Legend - 7H
+50,550,8,27,1825,89,57,Sutorbilt Legend - 7H
+51,550,9,30.4,1841,90,63,Sutorbilt Legend - 7H
+52,550,11,37.5,1873,91,77,Sutorbilt Legend - 7H
+53,550,13,44.6,1901,93,90,Sutorbilt Legend - 7H
+54,550,15,,,,,Sutorbilt Legend - 7H  model not available
+55,575,7,24.5,1876,92,50,Sutorbilt Legend - 7H
+56,575,8,28,1894,92,57,Sutorbilt Legend - 7H
+57,575,9,31.6,1911,93,63,Sutorbilt Legend - 7H
+58,575,11,38.9,1942,95,77,Sutorbilt Legend - 7H
+59,575,13,46.3,1971,96,90,Sutorbilt Legend - 7H
+60,575,15,,,,,Sutorbilt Legend - 7H  model not available
+61,600,7,25.4,1946,95,50,Sutorbilt Legend - 7H
+62,600,8,29,1964,96,57,Sutorbilt Legend - 7H
+63,600,9,32.7,1981,97,63,Sutorbilt Legend - 7H
+64,600,11,40.2,2012,98,77,Sutorbilt Legend - 7H
+65,600,13,47.9,2040,100,90,Sutorbilt Legend - 7H
+66,600,15,,,,,Sutorbilt Legend - 7H  model not available
+67,625,7,26.3,2015,98,50,Sutorbilt Legend - 7H
+68,625,8,30.1,2033,99,57,Sutorbilt Legend - 7H
+69,625,9,,,,,Sutorbilt Legend - 7H  model not available
+70,625,11,,,,,Sutorbilt Legend - 7H  model not available
+71,625,13,,,,,Sutorbilt Legend - 7H  model not available
+72,625,15,,,,,Sutorbilt Legend - 7H  model not available
+73,650,7,,,,,Sutorbilt Legend - 7H  model not available
+74,650,8,,,,,Sutorbilt Legend - 7H  model not available
+75,650,9,,,,,Sutorbilt Legend - 7H  model not available
+76,650,11,,,,,Sutorbilt Legend - 7H  model not available
+77,650,13,,,,,Sutorbilt Legend - 7H  model not available
+78,650,15,,,,,Sutorbilt Legend - 7H  model not available

@@ -1,0 +1,89 @@
+8MP/8MVP - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 970-1625 SCFM,,,Interval: 50 SCFM,,,RPM Range: 880-1800,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,970,8,49.2,1173,65,85,Sutorbilt Legend - 8M
+2,970,9,55.5,1186,66,95,Sutorbilt Legend - 8M
+3,970,10,,,,,Sutorbilt Legend - 8M  model not available
+4,970,12,,,,,Sutorbilt Legend - 8M  model not available
+5,970,13,,,,,Sutorbilt Legend - 8M  model not available
+6,970,14,,,,,Sutorbilt Legend - 8M  model not available
+7,1020,8,51.2,1222,68,85,Sutorbilt Legend - 8M
+8,1020,9,57.8,1235,69,95,Sutorbilt Legend - 8M
+9,1020,10,,,,,Sutorbilt Legend - 8M  model not available
+10,1020,12,,,,,Sutorbilt Legend - 8M  model not available
+11,1020,13,,,,,Sutorbilt Legend - 8M  model not available
+12,1020,14,,,,,Sutorbilt Legend - 8M  model not available
+13,1070,8,53.3,1271,71,85,Sutorbilt Legend - 8M
+14,1070,9,60.1,1284,71,95,Sutorbilt Legend - 8M
+15,1070,10,,,,,Sutorbilt Legend - 8M  model not available
+16,1070,12,,,,,Sutorbilt Legend - 8M  model not available
+17,1070,13,,,,,Sutorbilt Legend - 8M  model not available
+18,1070,14,,,,,Sutorbilt Legend - 8M  model not available
+19,1120,8,55.3,1320,73,85,Sutorbilt Legend - 8M
+20,1120,9,62.4,1333,74,95,Sutorbilt Legend - 8M
+21,1120,10,,,,,Sutorbilt Legend - 8M  model not available
+22,1120,12,,,,,Sutorbilt Legend - 8M  model not available
+23,1120,13,,,,,Sutorbilt Legend - 8M  model not available
+24,1120,14,,,,,Sutorbilt Legend - 8M  model not available
+25,1170,8,57.4,1369,76,85,Sutorbilt Legend - 8M
+26,1170,9,64.7,1382,77,95,Sutorbilt Legend - 8M
+27,1170,10,,,,,Sutorbilt Legend - 8M  model not available
+28,1170,12,,,,,Sutorbilt Legend - 8M  model not available
+29,1170,13,,,,,Sutorbilt Legend - 8M  model not available
+30,1170,14,,,,,Sutorbilt Legend - 8M  model not available
+31,1220,8,59.4,1419,79,85,Sutorbilt Legend - 8M
+32,1220,9,67,1431,80,95,Sutorbilt Legend - 8M
+33,1220,10,,,,,Sutorbilt Legend - 8M  model not available
+34,1220,12,,,,,Sutorbilt Legend - 8M  model not available
+35,1220,13,,,,,Sutorbilt Legend - 8M  model not available
+36,1220,14,,,,,Sutorbilt Legend - 8M  model not available
+37,1270,8,61.5,1468,82,85,Sutorbilt Legend - 8M
+38,1270,9,69.3,1480,82,95,Sutorbilt Legend - 8M
+39,1270,10,,,,,Sutorbilt Legend - 8M  model not available
+40,1270,12,,,,,Sutorbilt Legend - 8M  model not available
+41,1270,13,,,,,Sutorbilt Legend - 8M  model not available
+42,1270,14,,,,,Sutorbilt Legend - 8M  model not available
+43,1320,8,63.6,1517,84,85,Sutorbilt Legend - 8M
+44,1320,9,71.6,1529,85,95,Sutorbilt Legend - 8M
+45,1320,10,,,,,Sutorbilt Legend - 8M  model not available
+46,1320,12,,,,,Sutorbilt Legend - 8M  model not available
+47,1320,13,,,,,Sutorbilt Legend - 8M  model not available
+48,1320,14,,,,,Sutorbilt Legend - 8M  model not available
+49,1370,8,65.6,1566,87,85,Sutorbilt Legend - 8M
+50,1370,9,73.9,1578,88,95,Sutorbilt Legend - 8M
+51,1370,10,,,,,Sutorbilt Legend - 8M  model not available
+52,1370,12,,,,,Sutorbilt Legend - 8M  model not available
+53,1370,13,,,,,Sutorbilt Legend - 8M  model not available
+54,1370,14,,,,,Sutorbilt Legend - 8M  model not available
+55,1420,8,67.7,1615,90,85,Sutorbilt Legend - 8M
+56,1420,9,76.2,1628,90,95,Sutorbilt Legend - 8M
+57,1420,10,,,,,Sutorbilt Legend - 8M  model not available
+58,1420,12,,,,,Sutorbilt Legend - 8M  model not available
+59,1420,13,,,,,Sutorbilt Legend - 8M  model not available
+60,1420,14,,,,,Sutorbilt Legend - 8M  model not available
+61,1470,8,69.7,1664,92,85,Sutorbilt Legend - 8M
+62,1470,9,78.5,1677,93,95,Sutorbilt Legend - 8M
+63,1470,10,,,,,Sutorbilt Legend - 8M  model not available
+64,1470,12,,,,,Sutorbilt Legend - 8M  model not available
+65,1470,13,,,,,Sutorbilt Legend - 8M  model not available
+66,1470,14,,,,,Sutorbilt Legend - 8M  model not available
+67,1520,8,71.8,1713,95,85,Sutorbilt Legend - 8M
+68,1520,9,80.8,1726,96,95,Sutorbilt Legend - 8M
+69,1520,10,,,,,Sutorbilt Legend - 8M  model not available
+70,1520,12,,,,,Sutorbilt Legend - 8M  model not available
+71,1520,13,,,,,Sutorbilt Legend - 8M  model not available
+72,1520,14,,,,,Sutorbilt Legend - 8M  model not available
+73,1570,8,73.8,1762,98,85,Sutorbilt Legend - 8M
+74,1570,9,83.1,1775,99,95,Sutorbilt Legend - 8M
+75,1570,10,,,,,Sutorbilt Legend - 8M  model not available
+76,1570,12,,,,,Sutorbilt Legend - 8M  model not available
+77,1570,13,,,,,Sutorbilt Legend - 8M  model not available
+78,1570,14,,,,,Sutorbilt Legend - 8M  model not available
+79,1620,8,,,,,Sutorbilt Legend - 8M  model not available
+80,1620,9,,,,,Sutorbilt Legend - 8M  model not available
+81,1620,10,,,,,Sutorbilt Legend - 8M  model not available
+82,1620,12,,,,,Sutorbilt Legend - 8M  model not available
+83,1620,13,,,,,Sutorbilt Legend - 8M  model not available
+84,1620,14,,,,,Sutorbilt Legend - 8M  model not available

@@ -1,0 +1,337 @@
+160CDL480B - Performance Data,,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,,
+Config,Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,
+RC1,1,400,5,14.7,847,24,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,2,400,9,27.3,948,26,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,3,400,12,38.1,1019,28,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,4,400,15,49.9,1085,30,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,5,460,5,15.9,924,26,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,6,460,9,29.3,1024,28,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,7,460,12,40.7,1095,30,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,8,460,15,53,1161,32,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,9,520,5,17.2,1001,28,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,10,520,9,31.4,1101,31,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,11,520,12,43.3,1171,33,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,12,520,15,56.2,1237,34,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,13,580,5,18.6,1078,30,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,14,580,9,33.5,1178,33,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,15,580,12,46,1247,35,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,16,580,15,59.4,1312,36,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,17,640,5,19.9,1156,32,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,18,640,9,35.6,1254,35,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,19,640,12,48.7,1323,37,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,20,640,15,62.7,1387,39,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,21,700,5,21.3,1233,34,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,22,700,9,37.8,1330,37,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,23,700,12,51.4,1339,39,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,24,700,15,65.9,1463,41,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,25,760,5,22.7,1310,36,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,26,760,9,39.9,1407,39,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,27,760,12,54.1,1474,41,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,28,760,15,69.2,1538,43,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,29,820,5,24.1,1386,39,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,30,820,9,42.1,1483,41,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,31,820,12,56.9,1550,43,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,32,820,15,72.5,1613,45,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,33,880,5,25.6,1463,41,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,34,880,9,44.4,1559,43,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,35,880,12,59.6,1626,45,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,36,880,15,75.9,1688,47,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,37,940,5,27.1,1540,43,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,38,940,9,46.6,1635,45,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,39,940,12,62.4,1701,47,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,40,940,15,79.2,1763,49,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,41,1000,5,28.6,1617,45,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,42,1000,9,48.9,1711,48,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,43,1000,12,65.3,1777,49,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,44,1000,15,82.6,1838,51,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,45,1060,5,30.1,1693,47,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,46,1060,9,51.1,1787,50,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,47,1060,12,68.1,1852,51,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,48,1060,15,86,1913,53,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,49,1120,5,31.7,1769,49,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,50,1120,9,53.4,1862,52,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,51,1120,12,71,1927,54,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,52,1120,15,89.4,1987,55,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,53,1180,5,33.2,1846,51,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,54,1180,9,55.8,1938,54,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,55,1180,12,73.8,2002,56,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,56,1180,15,92.8,2062,57,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,57,1240,5,34.8,1922,53,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,58,1240,9,58.1,2014,56,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,59,1240,12,76.8,2077,58,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,60,1240,15,96.3,2137,59,86,CycloBlower H.E. - 160CDL480 RC1 Low
+,61,1300,5,36.5,1998,56,31,CycloBlower H.E. - 160CDL480 RC1 Low
+,62,1300,9,60.5,2089,58,53,CycloBlower H.E. - 160CDL480 RC1 Low
+,63,1300,12,79.7,2152,60,69,CycloBlower H.E. - 160CDL480 RC1 Low
+,64,1300,15,99.7,2211,61,86,CycloBlower H.E. - 160CDL480 RC1 Low
+RC2,65,400,5,16.2,875,24,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,66,400,9,24.9,926,26,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,67,400,12,32.7,965,27,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,68,400,15,41.4,1005,28,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,69,400,18,51.3,1046,29,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,70,400,20,58.4,1074,30,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,71,460,5,18,955,27,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,72,460,9,27.3,1006,28,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,73,460,12,35.5,1045,29,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,74,460,15,44.8,1085,30,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,75,460,18,55.1,1126,31,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,76,460,20,62.5,1153,32,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,77,520,5,19.8,1036,29,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,78,520,9,29.7,1086,30,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,79,520,12,38.4,1125,31,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,80,520,15,48.1,1165,32,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,81,520,18,58.9,1205,33,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,82,520,20,66.6,1233,34,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,83,580,5,21.6,1116,31,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,84,580,9,32.2,1166,32,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,85,580,12,41.3,1205,33,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,86,580,15,51.5,1244,35,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,87,580,18,62.7,1285,36,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,88,580,20,70.8,1312,36,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,89,640,5,23.4,1196,33,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,90,640,9,34.6,1246,35,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,91,640,12,44.2,1284,36,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,92,640,15,54.9,1323,37,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,93,640,18,66.6,1364,38,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,94,640,20,61.6,2397,53,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,95,700,5,25.2,1275,35,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,96,700,9,37.1,1325,37,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,97,700,12,47.1,1363,38,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,98,700,15,58.3,1403,39,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,99,700,18,70.4,1443,40,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,100,700,20,65.9,2560,57,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,101,760,5,27.1,1355,38,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,102,760,9,39.6,1404,39,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,103,760,12,50.1,1442,40,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,104,760,15,61.7,1481,41,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,105,760,18,74.3,1521,42,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,106,760,20,70.3,2724,61,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,107,820,5,29,1434,40,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,108,820,9,42.1,1483,41,53,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,109,820,12,53.1,1521,42,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,110,820,15,65.1,1560,43,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,111,820,18,78.2,1600,44,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,112,820,20,87.5,1627,45,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,113,880,5,30.9,1513,42,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,114,880,9,44.6,1562,43,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,115,880,12,56.1,1600,44,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,116,880,15,68.5,1639,46,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,117,880,18,82.1,1678,47,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,118,880,20,91.7,1705,47,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,119,940,5,32.8,1592,44,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,120,940,9,47.1,1641,46,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,121,940,12,59.1,1678,47,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,122,940,15,72,1717,48,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,123,940,18,86,1756,49,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,124,940,20,95.9,1783,50,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,125,1000,5,34.7,1671,46,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,126,1000,9,49.7,1719,48,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,127,1000,12,62.1,1757,49,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,128,1000,15,75.5,1795,50,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,129,1000,18,89.9,1834,51,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,130,1000,20,100.2,1861,52,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,131,1060,5,36.7,1749,49,18,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,132,1060,9,52.3,1797,50,32,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,133,1060,12,65.1,1835,51,42,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,134,1060,15,79,1873,52,52,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,135,1060,18,93.9,1912,53,62,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+,136,1060,20,104.4,1939,54,68,CycloBlower H.E. - 160CDL480 RC2 Medium (FFL)
+RC3,137,400,12,42.7,1015,28,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,138,400,15,47.7,1029,29,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,139,400,18,53.6,1044,29,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,140,400,20,57.9,1056,29,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,141,460,12,46.2,1097,30,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,142,460,15,51.6,1110,31,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,143,460,18,57.7,1126,31,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,144,460,20,62.3,1138,32,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,145,520,12,49.7,1179,33,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,146,520,15,55.4,1192,33,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,147,520,18,61.9,1207,34,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,148,520,20,66.7,1219,34,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,149,580,12,53.3,1260,35,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,150,580,15,59.3,1273,35,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,151,580,18,66.1,1288,36,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,152,580,20,71.1,1300,36,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,153,640,12,56.9,1342,37,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,154,640,15,63.2,1354,38,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,155,640,18,70.3,1369,38,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,156,640,20,75.5,1381,38,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,157,700,12,60.5,1422,40,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,158,700,15,67.1,1435,40,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,159,700,18,74.6,1450,40,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,160,700,20,80,1461,41,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,161,760,12,64.1,1503,42,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,162,760,15,71.1,1515,42,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,163,760,18,78.8,1530,42,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,164,760,20,84.5,1541,43,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,165,820,12,67.8,1583,44,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,166,820,15,75.1,1595,44,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,167,820,18,83.1,1609,45,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,168,820,20,89,1621,45,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,169,880,12,71.5,1663,46,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,170,880,15,79.1,1674,47,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,171,880,18,87.4,1689,47,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,172,880,20,93.5,1700,47,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,173,940,12,75.2,1742,48,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,174,940,15,83.1,1754,49,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,175,940,18,91.8,1768,49,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,176,940,20,98,1779,49,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,177,1000,12,79,1821,51,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,178,1000,15,87.1,1833,51,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,179,1000,18,96.1,1847,51,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,180,1000,20,102.6,1858,52,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,181,1060,12,82.7,1900,53,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,182,1060,15,91.2,1911,53,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,183,1060,18,100.5,1925,53,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,184,1060,20,107.2,1936,54,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,185,1120,12,86.5,1979,55,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,186,1120,15,95.3,1990,55,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,187,1120,18,104.9,2003,56,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,188,1120,20,111.8,2014,56,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,189,1180,12,90.3,2057,57,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,190,1180,15,99.4,2068,57,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,191,1180,18,109.3,2081,58,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,192,1180,20,116.4,2092,58,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,193,1240,12,94.1,2135,59,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,194,1240,15,103.5,2145,60,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,195,1240,18,113.8,2159,60,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,196,1240,20,121,2169,60,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,197,1300,12,98,2212,61,35,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,198,1300,15,107.7,2223,62,43,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,199,1300,18,118.2,2236,62,51,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+,200,1300,20,125.7,2246,62,57,CycloBlower H.E. - 160CDL480 RC3 High (FFL)
+RC1 (Low),201,542.8,5,17.8,1031,29,31,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,202,940,5,27.1,1540,43,31,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,203,1340.2,5,37.6,2049,57,31,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,204,1743.5,5,49.2,2559,71,31,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,205,2149.7,5,62,3068,85,31,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,206,2641.1,5,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+,207,463.5,9,29.5,1029,29,53,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,208,863.9,9,43.8,1538,43,53,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,209,1267.4,9,59.2,2048,57,53,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,210,1673.9,9,75.8,2557,71,53,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,211,2083.3,9,93.6,3067,85,53,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,212,2578.6,9,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+,213,407.2,12,38.4,1028,29,69,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,214,810.1,12,56.4,1538,43,69,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,215,1216,12,75.6,2047,57,69,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,216,1624.9,12,95.9,2557,71,69,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,217,2036.7,12,117.4,3066,85,69,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,218,2535,12,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+,219,353.7,15,47.4,1027,29,86,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,220,759,15,69.2,1537,43,86,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,221,1167.3,15,92.1,2046,57,86,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,222,1578.6,15,116.1,2556,71,86,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,223,1992.9,15,141.3,3064,85,86,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL)
+,224,2494,15,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+RC2 (Low),225,509,5,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,226,893.2,5,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,227,1284.3,5,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,228,1682.4,5,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,229,2087.3,5,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,230,2582.4,5,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+,231,471.8,9,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,232,856.4,9,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,233,1247.9,9,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,234,1646.4,9,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,235,2051.7,9,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,236,2547.3,9,,,,,CycloBlower H.E. - 160CDL480 RC1 Low Compression (FFL) - Model  Not Availabe
+,237,443,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,238,827.9,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,239,1219.7,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,240,1618.4,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,241,2024.1,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,242,2520,12,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,243,413.3,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,244,798.5,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,245,1190.6,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,246,1589.7,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,247,1995.6,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,248,2491.9,15,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,249,382.8,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,250,768.3,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,251,1160.8,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,252,1560.1,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,253,1966.4,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,254,2463,18,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,255,747.8,20,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,256,1140.4,20,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,257,1540,20,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,258,1946.4,20,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+,259,2443.3,20,,,,,CycloBlower H.E. - 160CDL480 RC2 Low Compression (FFL) - Model  Not Availabe
+RC3 (Low),260,395.1,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,261,770.1,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,262,1156.6,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,263,1554.6,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,264,1964,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,265,2470.3,12,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,266,388,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,267,763.4,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,268,1150.2,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,269,1548.6,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,270,1958.3,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,271,2465.1,15,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,272,754.3,18,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,273,1141.6,18,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,274,1540.2,18,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,275,1950.3,18,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,276,2457.6,18,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,277,747,20,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,278,1134.5,20,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,279,1533.4,20,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,280,1943.8,20,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+,281,2451.3,20,,,,,CycloBlower H.E. - 160CDL480 RC3 Low Compression (FFL) - Model  Not Availabe
+RC2 (High),282,351.6,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,283,737.4,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,284,1130.1,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,285,1529.8,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,286,1936.3,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,287,2433.4,21,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,288,319.5,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,289,705.6,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,290,1098.6,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,291,1498.6,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,292,1905.5,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,293,2402.8,24,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,294,673,27,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,295,1066.4,27,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,296,1466.6,27,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,297,1873.8,27,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,298,2371.5,27,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,299,1033.3,30,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,300,1433.8,30,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,301,1841.3,30,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+,302,2339.4,30,,,,,CycloBlower H.E. - 160CDL480 RC2 High Compression (FFL) - Model  Not Availabe
+RC3 (High),303,366.8,21,57.8,1018,28,60,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,304,743,21,86.1,1524,42,60,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,305,1130.6,21,116.2,2033,56,60,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,306,1529.6,21,147.9,2543,71,60,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,307,1940.1,21,181.3,3053,85,60,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,308,2447.8,21,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,309,352.8,24,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,310,729.3,24,94.4,1526,42,68,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,311,1117.3,24,126.5,2035,57,68,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,312,1516.7,24,160.2,2545,71,68,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,313,1927.5,24,195.6,3054,85,68,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,314,2435.6,24,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,315,336.5,27,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,316,713.4,27,103.3,1528,42,76,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,317,1101.7,27,137.3,2037,57,76,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,318,1501.5,27,173.1,2546,71,76,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,319,1912.7,27,210.4,3056,85,76,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,320,2421.2,27,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,321,695.2,30,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,322,1083.8,30,148.8,2038,57,85,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,323,1483.9,30,186.5,2548,71,85,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,324,1895.5,30,225.9,3057,85,85,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,325,2404.5,30,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,326,674.6,33,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,327,1063.6,33,160.8,2039,57,93,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,328,1464.1,33,200.6,2549,71,93,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,329,1876,33,241.9,3058,85,93,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL)
+,330,2385.4,33,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,331,1041.2,36,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,332,1442,36,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,333,1854.3,36,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe
+,334,2364.1,36,,,,,CycloBlower H.E. - 160CDL480 RC3 High Compression (FFL) - Model  Not Availabe

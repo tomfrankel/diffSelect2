@@ -1,0 +1,65 @@
+2LP/2LVP - Low Pressure Performance Data,,,,,,,
+Airflow Range: 70-160 SCFM,,,Interval: 10 SCFM,,,RPM Range: 2350-5275,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,70,2,1.3,2761,52,36,Sutorbilt Legend 2L
+2,70,3,1.9,2892,55,50,Sutorbilt Legend 2L
+3,70,4,2.4,3006,57,64,Sutorbilt Legend 2L
+4,70,5,3,3108,59,79,Sutorbilt Legend 2L
+5,70,6,3.7,3201,61,93,Sutorbilt Legend 2L
+6,70,7,,,,,Sutorbilt Legend 2L - model not available
+7,80,2,1.5,3052,58,36,Sutorbilt Legend 2L
+8,80,3,2,3184,60,50,Sutorbilt Legend 2L
+9,80,4,2.7,3298,63,64,Sutorbilt Legend 2L
+10,80,5,3.3,3400,64,79,Sutorbilt Legend 2L
+11,80,6,4,3492,66,93,Sutorbilt Legend 2L
+12,80,7,,,,,Sutorbilt Legend 2L - model not available
+13,90,2,1.6,3344,63,36,Sutorbilt Legend 2L
+14,90,3,2.2,3476,66,50,Sutorbilt Legend 2L
+15,90,4,2.9,3590,68,64,Sutorbilt Legend 2L
+16,90,5,3.6,3691,70,79,Sutorbilt Legend 2L
+17,90,6,4.3,3784,72,93,Sutorbilt Legend 2L
+18,90,7,,,,,Sutorbilt Legend 2L - model not available
+19,100,2,1.7,3636,69,36,Sutorbilt Legend 2L
+20,100,3,2.4,3767,71,50,Sutorbilt Legend 2L
+21,100,4,3.1,3881,74,64,Sutorbilt Legend 2L
+22,100,5,3.8,3983,76,79,Sutorbilt Legend 2L
+23,100,6,4.6,4076,77,93,Sutorbilt Legend 2L
+24,100,7,,,,,Sutorbilt Legend 2L - model not available
+25,110,2,1.8,3928,74,36,Sutorbilt Legend 2L
+26,110,3,2.6,4059,77,50,Sutorbilt Legend 2L
+27,110,4,3.3,4173,79,64,Sutorbilt Legend 2L
+28,110,5,4.1,4275,81,79,Sutorbilt Legend 2L
+29,110,6,4.9,4368,83,93,Sutorbilt Legend 2L
+30,110,7,,,,,Sutorbilt Legend 2L - model not available
+31,120,2,1.9,4219,80,36,Sutorbilt Legend 2L
+32,120,3,2.7,4351,82,50,Sutorbilt Legend 2L
+33,120,4,3.5,4465,85,64,Sutorbilt Legend 2L
+34,120,5,4.4,4566,87,79,Sutorbilt Legend 2L
+35,120,6,5,4659,88,93,Sutorbilt Legend 2L
+36,120,7,,,,,Sutorbilt Legend 2L - model not available
+37,130,2,2.1,4511,86,36,Sutorbilt Legend 2L
+38,130,3,2.9,4643,88,50,Sutorbilt Legend 2L
+39,130,4,3.8,4756,90,64,Sutorbilt Legend 2L
+40,130,5,4.6,4858,92,79,Sutorbilt Legend 2L
+41,130,6,5.3,4951,94,93,Sutorbilt Legend 2L
+42,130,7,,,,,Sutorbilt Legend 2L - model not available
+43,140,2,2.2,4803,91,36,Sutorbilt Legend 2L
+44,140,3,3.1,4934,94,50,Sutorbilt Legend 2L
+45,140,4,4,5048,96,64,Sutorbilt Legend 2L
+46,140,5,4.9,5150,98,79,Sutorbilt Legend 2L
+47,140,6,5.7,5243,99,93,Sutorbilt Legend 2L
+48,140,7,,,,,Sutorbilt Legend 2L - model not available
+49,150,2,2.3,5094,97,36,Sutorbilt Legend 2L
+50,150,3,3.2,5226,99,50,Sutorbilt Legend 2L
+51,150,4,,,,,Sutorbilt Legend 2L - model not available
+52,150,5,,,,,Sutorbilt Legend 2L - model not available
+53,150,6,,,,,Sutorbilt Legend 2L - model not available
+54,150,7,,,,,Sutorbilt Legend 2L - model not available
+55,160,2,,,,,Sutorbilt Legend 2L - model not available
+56,160,3,,,,,Sutorbilt Legend 2L - model not available
+57,160,4,,,,,Sutorbilt Legend 2L - model not available
+58,160,5,,,,,Sutorbilt Legend 2L - model not available
+59,160,6,,,,,Sutorbilt Legend 2L - model not available
+60,160,7,,,,,Sutorbilt Legend 2L - model not available

@@ -1,0 +1,95 @@
+6LR/6LVR - Low Pressure Performance Data,,,,,,,
+Airflow Range: 650-1500 SCFM,,,Interval: 60 SCFM,,,RPM Range: 1170-2350,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,650,2,9.2,1084,46,36,Sutorbilt Legend - 6L
+2,650,3,13.3,1113,47,50,Sutorbilt Legend - 6L
+3,650,4,17.4,1139,48,64,Sutorbilt Legend - 6L
+4,650,5,21.7,1161,49,79,Sutorbilt Legend - 6L
+5,650,6,26.1,1182,50,93,Sutorbilt Legend - 6L
+6,650,7,,,,,Sutorbilt Legend - 6L  model not available
+7,710,2,9.9,1169,50,36,Sutorbilt Legend - 6L
+8,710,3,14.3,1199,51,50,Sutorbilt Legend - 6L
+9,710,4,18.7,1224,52,64,Sutorbilt Legend - 6L
+10,710,5,23.3,1246,53,79,Sutorbilt Legend - 6L
+11,710,6,28,1267,54,93,Sutorbilt Legend - 6L
+12,710,7,,,,,Sutorbilt Legend - 6L  model not available
+13,770,2,10.7,1255,53,36,Sutorbilt Legend - 6L
+14,770,3,15.3,1284,55,50,Sutorbilt Legend - 6L
+15,770,4,20.1,1309,56,64,Sutorbilt Legend - 6L
+16,770,5,24.9,1332,57,79,Sutorbilt Legend - 6L
+17,770,6,29.9,1352,58,93,Sutorbilt Legend - 6L
+18,770,7,,,,,Sutorbilt Legend - 6L  model not available
+19,830,2,11.4,1340,57,36,Sutorbilt Legend - 6L
+20,830,3,16.3,1369,58,50,Sutorbilt Legend - 6L
+21,830,4,21.4,1395,59,64,Sutorbilt Legend - 6L
+22,830,5,26.5,1417,60,79,Sutorbilt Legend - 6L
+23,830,6,31.8,1438,61,93,Sutorbilt Legend - 6L
+24,830,7,,,,,Sutorbilt Legend - 6L  model not available
+25,890,2,12.1,1425,61,36,Sutorbilt Legend - 6L
+26,890,3,17.3,1455,62,50,Sutorbilt Legend - 6L
+27,890,4,22.7,1480,63,64,Sutorbilt Legend - 6L
+28,890,5,28.1,1502,64,79,Sutorbilt Legend - 6L
+29,890,6,33.7,1523,65,93,Sutorbilt Legend - 6L
+30,890,7,,,,,Sutorbilt Legend - 6L  model not available
+31,950,2,12.9,1511,64,36,Sutorbilt Legend - 6L
+32,950,3,18.3,1540,66,50,Sutorbilt Legend - 6L
+33,950,4,24,1565,67,64,Sutorbilt Legend - 6L
+34,950,5,29.7,1588,68,79,Sutorbilt Legend - 6L
+35,950,6,35.6,1608,68,93,Sutorbilt Legend - 6L
+36,950,7,,,,,Sutorbilt Legend - 6L  model not available
+37,1010,2,13.6,1596,68,36,Sutorbilt Legend - 6L
+38,1010,3,19.4,1625,69,50,Sutorbilt Legend - 6L
+39,1010,4,25.3,1650,70,64,Sutorbilt Legend - 6L
+40,1010,5,31.3,1673,71,79,Sutorbilt Legend - 6L
+41,1010,6,37.5,1694,72,93,Sutorbilt Legend - 6L
+42,1010,7,,,,,Sutorbilt Legend - 6L  model not available
+43,1070,2,14.3,1681,72,36,Sutorbilt Legend - 6L
+44,1070,3,20.4,1711,73,50,Sutorbilt Legend - 6L
+45,1070,4,26.6,1736,74,64,Sutorbilt Legend - 6L
+46,1070,5,32.9,1758,75,79,Sutorbilt Legend - 6L
+47,1070,6,39.4,1779,76,93,Sutorbilt Legend - 6L
+48,1070,7,,,,,Sutorbilt Legend - 6L  model not available
+49,1130,2,15,1767,75,36,Sutorbilt Legend - 6L
+50,1130,3,21.4,1796,76,50,Sutorbilt Legend - 6L
+51,1130,4,27.9,1821,77,64,Sutorbilt Legend - 6L
+52,1130,5,34.5,1844,78,79,Sutorbilt Legend - 6L
+53,1130,6,41.2,1864,79,93,Sutorbilt Legend - 6L
+54,1130,7,,,,,Sutorbilt Legend - 6L  model not available
+55,1190,2,15.8,1852,79,36,Sutorbilt Legend - 6L
+56,1190,3,22.4,1881,80,50,Sutorbilt Legend - 6L
+57,1190,4,29.2,1906,81,64,Sutorbilt Legend - 6L
+58,1190,5,36.1,1928,82,79,Sutorbilt Legend - 6L
+59,1190,6,43.1,1950,83,93,Sutorbilt Legend - 6L
+60,1190,7,,,,,Sutorbilt Legend - 6L  model not available
+61,1250,2,16.5,1937,82,36,Sutorbilt Legend - 6L
+62,1250,3,23.4,1966,84,50,Sutorbilt Legend - 6L
+63,1250,4,30.5,1992,85,64,Sutorbilt Legend - 6L
+64,1250,5,37.7,2014,86,79,Sutorbilt Legend - 6L
+65,1250,6,45,2035,87,93,Sutorbilt Legend - 6L
+66,1250,7,,,,,Sutorbilt Legend - 6L  model not available
+67,1310,2,17.2,2023,86,36,Sutorbilt Legend - 6L
+68,1310,3,24.4,2052,87,50,Sutorbilt Legend - 6L
+69,1310,4,31.8,2077,88,64,Sutorbilt Legend - 6L
+70,1310,5,39.3,2100,89,79,Sutorbilt Legend - 6L
+71,1310,6,46.9,2120,90,93,Sutorbilt Legend - 6L
+72,1310,7,,,,,Sutorbilt Legend - 6L  model not available
+73,1370,2,17.9,2108,90,36,Sutorbilt Legend - 6L
+74,1370,3,25.5,2137,91,50,Sutorbilt Legend - 6L
+75,1370,4,33.1,2162,92,64,Sutorbilt Legend - 6L
+76,1370,5,40.9,2185,93,79,Sutorbilt Legend - 6L
+77,1370,6,48.8,2206,94,93,Sutorbilt Legend - 6L
+78,1370,7,,,,,Sutorbilt Legend - 6L  model not available
+79,1430,2,18.7,2193,93,36,Sutorbilt Legend - 6L
+80,1430,3,26.5,2222,95,50,Sutorbilt Legend - 6L
+81,1430,4,34.4,2248,96,64,Sutorbilt Legend - 6L
+82,1430,5,42.5,2270,97,79,Sutorbilt Legend - 6L
+83,1430,6,50.7,2291,97,93,Sutorbilt Legend - 6L
+84,1430,7,,,,,Sutorbilt Legend - 6L  model not available
+85,1490,2,19.4,2279,97,36,Sutorbilt Legend - 6L
+86,1490,3,27.5,2308,98,50,Sutorbilt Legend - 6L
+87,1490,4,35.7,2333,99,64,Sutorbilt Legend - 6L
+88,1490,5,,,,,Sutorbilt Legend - 6L  model not available
+89,1490,6,,,,,Sutorbilt Legend - 6L  model not available
+90,1490,7,,,,,Sutorbilt Legend - 6L  model not available

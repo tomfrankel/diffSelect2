@@ -1,0 +1,59 @@
+2MP/2MVP - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 22-65 SCFM,,,Interval: 5 SCFM,,,RPM Range: 2800-5475,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,22,8,2,2794,53,71,Sutorbilt Legend - 2M
+2,22,9,2.3,2878,55,79,Sutorbilt Legend - 2M
+3,22,10,,,,,Sutorbilt Legend - 2M   model not available
+4,22,12,,,,,Sutorbilt Legend - 2M   model not available
+5,22,13,,,,,Sutorbilt Legend - 2M   model not available
+6,22,14,,,,,Sutorbilt Legend - 2M   model not available
+7,27,8,2.2,3094,59,71,Sutorbilt Legend - 2M
+8,27,9,2.5,3178,60,79,Sutorbilt Legend - 2M
+9,27,10,,,,,Sutorbilt Legend - 2M   model not available
+10,27,12,,,,,Sutorbilt Legend - 2M   model not available
+11,27,13,,,,,Sutorbilt Legend - 2M   model not available
+12,27,14,,,,,Sutorbilt Legend - 2M   model not available
+13,32,8,2.4,3394,64,71,Sutorbilt Legend - 2M
+14,32,9,2.8,3478,66,79,Sutorbilt Legend - 2M
+15,32,10,3.1,3558,67,88,Sutorbilt Legend - 2M
+16,32,12,,,,,Sutorbilt Legend - 2M   model not available
+17,32,13,,,,,Sutorbilt Legend - 2M   model not available
+18,32,14,,,,,Sutorbilt Legend - 2M   model not available
+19,37,8,2.6,3694,70,71,Sutorbilt Legend - 2M
+20,37,9,3,3779,72,79,Sutorbilt Legend - 2M
+21,37,10,3.4,3859,73,88,Sutorbilt Legend - 2M
+22,37,12,,,,,Sutorbilt Legend - 2M   model not available
+23,37,13,,,,,Sutorbilt Legend - 2M   model not available
+24,37,14,,,,,Sutorbilt Legend - 2M   model not available
+25,42,8,2.8,3995,76,71,Sutorbilt Legend - 2M
+26,42,9,3.2,4079,77,79,Sutorbilt Legend - 2M
+27,42,10,3.6,4159,79,88,Sutorbilt Legend - 2M
+28,42,12,,,,,Sutorbilt Legend - 2M   model not available
+29,42,13,,,,,Sutorbilt Legend - 2M   model not available
+30,42,14,,,,,Sutorbilt Legend - 2M   model not available
+31,47,8,3,4295,81,71,Sutorbilt Legend - 2M
+32,47,9,3.5,4379,83,79,Sutorbilt Legend - 2M
+33,47,10,3.9,4459,85,88,Sutorbilt Legend - 2M
+34,47,12,,,,,Sutorbilt Legend - 2M   model not available
+35,47,13,,,,,Sutorbilt Legend - 2M   model not available
+36,47,14,,,,,Sutorbilt Legend - 2M   model not available
+37,52,8,3.2,4595,87,71,Sutorbilt Legend - 2M
+38,52,9,3.7,4680,89,79,Sutorbilt Legend - 2M
+39,52,10,4.1,4759,90,88,Sutorbilt Legend - 2M
+40,52,12,,,,,Sutorbilt Legend - 2M   model not available
+41,52,13,,,,,Sutorbilt Legend - 2M   model not available
+42,52,14,,,,,Sutorbilt Legend - 2M   model not available
+43,57,8,3.5,4896,93,71,Sutorbilt Legend - 2M
+44,57,9,3.9,4980,94,79,Sutorbilt Legend - 2M
+45,57,10,4.4,5060,96,88,Sutorbilt Legend - 2M
+46,57,12,,,,,Sutorbilt Legend - 2M   model not available
+47,57,13,,,,,Sutorbilt Legend - 2M   model not available
+48,57,14,,,,,Sutorbilt Legend - 2M   model not available
+49,62,8,3.7,5196,99,71,Sutorbilt Legend - 2M
+50,62,9,,,,,Sutorbilt Legend - 2M   model not available
+51,62,10,,,,,Sutorbilt Legend - 2M   model not available
+52,62,12,,,,,Sutorbilt Legend - 2M   model not available
+53,62,13,,,,,Sutorbilt Legend - 2M   model not available
+54,62,14,,,,,Sutorbilt Legend - 2M   model not available

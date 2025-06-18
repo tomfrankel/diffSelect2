@@ -1,0 +1,89 @@
+5HR/5HVR - High Pressure Performance Data,,,,,,,
+Airflow Range: 140-340 SCFM,,,Interval: 15 SCFM,,,RPM Range: 1500-2850,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,140,7,7.1,1436,50,50,Sutorbilt Legend - 5HR
+2,140,8,8.3,1463,51,57,Sutorbilt Legend - 5HR
+3,140,9,9.4,1488,52,63,Sutorbilt Legend - 5HR
+4,140,11,11.7,1535,54,77,Sutorbilt Legend - 5HR
+5,140,13,,,,,Sutorbilt Legend - 5HR model not available
+6,140,15,,,,,Sutorbilt Legend - 5HR model not available
+7,155,7,7.7,1545,54,50,Sutorbilt Legend - 5HR
+8,155,8,8.9,1572,55,57,Sutorbilt Legend - 5HR
+9,155,9,10.1,1597,56,63,Sutorbilt Legend - 5HR
+10,155,11,12.5,1644,58,77,Sutorbilt Legend - 5HR
+11,155,13,,,,,Sutorbilt Legend - 5HR model not available
+12,155,15,,,,,Sutorbilt Legend - 5HR model not available
+13,170,7,8.2,1655,58,50,Sutorbilt Legend - 5HR
+14,170,8,9.5,1681,59,57,Sutorbilt Legend - 5HR
+15,170,9,10.8,1707,60,63,Sutorbilt Legend - 5HR
+16,170,11,13.4,1754,62,77,Sutorbilt Legend - 5HR
+17,170,13,,,,,Sutorbilt Legend - 5HR model not available
+18,170,15,,,,,Sutorbilt Legend - 5HR model not available
+19,185,7,8.8,1764,62,50,Sutorbilt Legend - 5HR
+20,185,8,10.1,1791,63,57,Sutorbilt Legend - 5HR
+21,185,9,11.4,1816,64,63,Sutorbilt Legend - 5HR
+22,185,11,14.2,1863,65,77,Sutorbilt Legend - 5HR
+23,185,13,17.1,1906,67,90,Sutorbilt Legend - 5HR
+24,185,15,,,,,Sutorbilt Legend - 5HR model not available
+25,200,7,9.3,1873,66,50,Sutorbilt Legend - 5HR
+26,200,8,10.7,1900,67,57,Sutorbilt Legend - 5HR
+27,200,9,12.1,1926,68,63,Sutorbilt Legend - 5HR
+28,200,11,15.1,1972,69,77,Sutorbilt Legend - 5HR
+29,200,13,18.1,2015,71,90,Sutorbilt Legend - 5HR
+30,200,15,,,,,Sutorbilt Legend - 5HR model not available
+31,215,7,9.9,1983,70,50,Sutorbilt Legend - 5HR
+32,215,8,11.3,2010,71,57,Sutorbilt Legend - 5HR
+33,215,9,12.8,2035,71,63,Sutorbilt Legend - 5HR
+34,215,11,15.9,2082,73,77,Sutorbilt Legend - 5HR
+35,215,13,19,2125,75,90,Sutorbilt Legend - 5HR
+36,215,15,,,,,Sutorbilt Legend - 5HR model not available
+37,230,7,10.4,2092,73,50,Sutorbilt Legend - 5HR
+38,230,8,12,2119,74,57,Sutorbilt Legend - 5HR
+39,230,9,13.5,2114,75,63,Sutorbilt Legend - 5HR
+40,230,11,16.7,2191,77,77,Sutorbilt Legend - 5HR
+41,230,13,20,2234,78,90,Sutorbilt Legend - 5HR
+42,230,15,,,,,Sutorbilt Legend - 5HR model not available
+43,245,7,11,2202,77,50,Sutorbilt Legend - 5HR
+44,245,8,12.6,2228,78,57,Sutorbilt Legend - 5HR
+45,245,9,14.2,2254,79,63,Sutorbilt Legend - 5HR
+46,245,11,17.6,2301,81,77,Sutorbilt Legend - 5HR
+47,245,13,21,2343,82,90,Sutorbilt Legend - 5HR
+48,245,15,,,,,Sutorbilt Legend - 5HR model not available
+49,260,7,11.5,2311,81,50,Sutorbilt Legend - 5HR
+50,260,8,13.2,2338,82,57,Sutorbilt Legend - 5HR
+51,260,9,14.9,2363,83,63,Sutorbilt Legend - 5HR
+52,260,11,18.4,2410,85,77,Sutorbilt Legend - 5HR
+53,260,13,22,2453,86,90,Sutorbilt Legend - 5HR
+54,260,15,,,,,Sutorbilt Legend - 5HR model not available
+55,275,7,12,2420,85,50,Sutorbilt Legend - 5HR
+56,275,8,13.8,2447,86,57,Sutorbilt Legend - 5HR
+57,275,9,15.6,2472,87,63,Sutorbilt Legend - 5HR
+58,275,11,19.2,2519,88,77,Sutorbilt Legend - 5HR
+59,275,13,23,2562,90,90,Sutorbilt Legend - 5HR
+60,275,15,,,,,Sutorbilt Legend - 5HR model not available
+61,290,7,12.6,2530,89,50,Sutorbilt Legend - 5HR
+62,290,8,14.4,2557,90,57,Sutorbilt Legend - 5HR
+63,290,9,16.3,2582,91,63,Sutorbilt Legend - 5HR
+64,290,11,20.1,2629,92,77,Sutorbilt Legend - 5HR
+65,290,13,23.9,2672,94,90,Sutorbilt Legend - 5HR
+66,290,15,,,,,Sutorbilt Legend - 5HR model not available
+67,305,7,13.1,2639,93,50,Sutorbilt Legend - 5HR
+68,305,8,15,2666,94,57,Sutorbilt Legend - 5HR
+69,305,9,17,2691,94,63,Sutorbilt Legend - 5HR
+70,305,11,20.9,2738,96,77,Sutorbilt Legend - 5HR
+71,305,13,24.9,2781,98,90,Sutorbilt Legend - 5HR
+72,305,15,,,,,Sutorbilt Legend - 5HR model not available
+73,320,7,,,,,Sutorbilt Legend - 5HR model not available
+74,320,8,15.7,2775,97,57,Sutorbilt Legend - 5HR
+75,320,9,17.7,2801,98,63,Sutorbilt Legend - 5HR
+76,320,11,21.7,2847,100,77,Sutorbilt Legend - 5HR
+77,320,13,,,,,Sutorbilt Legend - 5HR model not available
+78,320,15,,,,,Sutorbilt Legend - 5HR model not available
+79,335,7,,,,,Sutorbilt Legend - 5HR model not available
+80,335,8,,,,,Sutorbilt Legend - 5HR model not available
+81,335,9,,,,,Sutorbilt Legend - 5HR model not available
+82,335,11,,,,,Sutorbilt Legend - 5HR model not available
+83,335,13,,,,,Sutorbilt Legend - 5HR model not available
+84,335,15,,,,,Sutorbilt Legend - 5HR model not available

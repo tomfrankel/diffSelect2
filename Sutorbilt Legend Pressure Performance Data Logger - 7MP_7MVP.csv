@@ -1,0 +1,89 @@
+7MP/7MVP - Medium Pressure Performance Data,,,,,,,
+Airflow Range: 650-1300 SCFM,,,Interval: 50 SCFM,,,RPM Range: 1170-2050,
+,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Notes
+1,650,8,34.1,1156,56,85,Sutorbilt Legend - 7M
+2,650,9,38.6,1170,57,95,Sutorbilt Legend - 7M
+3,650,10,,,,,Sutorbilt Legend - 7M  model not available
+4,650,12,,,,,Sutorbilt Legend - 7M  model not available
+5,650,13,,,,,Sutorbilt Legend - 7M  model not available
+6,650,14,,,,,Sutorbilt Legend - 7M  model not available
+7,700,8,36.2,1225,60,85,Sutorbilt Legend - 7M
+8,700,9,40.9,1240,60,95,Sutorbilt Legend - 7M
+9,700,10,,,,,Sutorbilt Legend - 7M  model not available
+10,700,12,,,,,Sutorbilt Legend - 7M  model not available
+11,700,13,,,,,Sutorbilt Legend - 7M  model not available
+12,700,14,,,,,Sutorbilt Legend - 7M  model not available
+13,750,8,38.2,1295,63,85,Sutorbilt Legend - 7M
+14,750,9,43.2,1309,64,95,Sutorbilt Legend - 7M
+15,750,10,,,,,Sutorbilt Legend - 7M  model not available
+16,750,12,,,,,Sutorbilt Legend - 7M  model not available
+17,750,13,,,,,Sutorbilt Legend - 7M  model not available
+18,750,14,,,,,Sutorbilt Legend - 7M  model not available
+19,800,8,40.3,1365,67,85,Sutorbilt Legend - 7M
+20,800,9,45.5,1379,67,95,Sutorbilt Legend - 7M
+21,800,10,,,,,Sutorbilt Legend - 7M  model not available
+22,800,12,,,,,Sutorbilt Legend - 7M  model not available
+23,800,13,,,,,Sutorbilt Legend - 7M  model not available
+24,800,14,,,,,Sutorbilt Legend - 7M  model not available
+25,850,8,42.4,1434,70,85,Sutorbilt Legend - 7M
+26,850,9,47.8,1449,71,95,Sutorbilt Legend - 7M
+27,850,10,,,,,Sutorbilt Legend - 7M  model not available
+28,850,12,,,,,Sutorbilt Legend - 7M  model not available
+29,850,13,,,,,Sutorbilt Legend - 7M  model not available
+30,850,14,,,,,Sutorbilt Legend - 7M  model not available
+31,900,8,44.4,1504,73,85,Sutorbilt Legend - 7M
+32,900,9,50.1,1518,74,95,Sutorbilt Legend - 7M
+33,900,10,,,,,Sutorbilt Legend - 7M  model not available
+34,900,12,,,,,Sutorbilt Legend - 7M  model not available
+35,900,13,,,,,Sutorbilt Legend - 7M  model not available
+36,900,14,,,,,Sutorbilt Legend - 7M  model not available
+37,950,8,46.5,1574,77,85,Sutorbilt Legend - 7M
+38,950,9,52.4,1588,77,95,Sutorbilt Legend - 7M
+39,950,10,,,,,Sutorbilt Legend - 7M  model not available
+40,950,12,,,,,Sutorbilt Legend - 7M  model not available
+41,950,13,,,,,Sutorbilt Legend - 7M  model not available
+42,950,14,,,,,Sutorbilt Legend - 7M  model not available
+43,1000,8,48.5,1643,80,85,Sutorbilt Legend - 7M
+44,1000,9,54.7,1658,81,95,Sutorbilt Legend - 7M
+45,1000,10,,,,,Sutorbilt Legend - 7M  model not available
+46,1000,12,,,,,Sutorbilt Legend - 7M  model not available
+47,1000,13,,,,,Sutorbilt Legend - 7M  model not available
+48,1000,14,,,,,Sutorbilt Legend - 7M  model not available
+49,1050,8,50.6,1713,84,85,Sutorbilt Legend - 7M
+50,1050,9,57,1727,84,95,Sutorbilt Legend - 7M
+51,1050,10,,,,,Sutorbilt Legend - 7M  model not available
+52,1050,12,,,,,Sutorbilt Legend - 7M  model not available
+53,1050,13,,,,,Sutorbilt Legend - 7M  model not available
+54,1050,14,,,,,Sutorbilt Legend - 7M  model not available
+55,1100,8,52.6,1783,87,85,Sutorbilt Legend - 7M
+56,1100,9,59.3,1797,88,95,Sutorbilt Legend - 7M
+57,1100,10,,,,,Sutorbilt Legend - 7M  model not available
+58,1100,12,,,,,Sutorbilt Legend - 7M  model not available
+59,1100,13,,,,,Sutorbilt Legend - 7M  model not available
+60,1100,14,,,,,Sutorbilt Legend - 7M  model not available
+61,1150,8,54.7,1852,90,85,Sutorbilt Legend - 7M
+62,1150,9,61.6,1866,91,95,Sutorbilt Legend - 7M
+63,1150,10,,,,,Sutorbilt Legend - 7M  model not available
+64,1150,12,,,,,Sutorbilt Legend - 7M  model not available
+65,1150,13,,,,,Sutorbilt Legend - 7M  model not available
+66,1150,14,,,,,Sutorbilt Legend - 7M  model not available
+67,1200,8,56.8,1922,94,85,Sutorbilt Legend - 7M
+68,1200,9,63.9,1936,94,95,Sutorbilt Legend - 7M
+69,1200,10,,,,,Sutorbilt Legend - 7M  model not available
+70,1200,12,,,,,Sutorbilt Legend - 7M  model not available
+71,1200,13,,,,,Sutorbilt Legend - 7M  model not available
+72,1200,14,,,,,Sutorbilt Legend - 7M  model not available
+73,1250,8,58.8,1991,97,85,Sutorbilt Legend - 7M
+74,1250,9,66.2,2006,98,95,Sutorbilt Legend - 7M
+75,1250,10,,,,,Sutorbilt Legend - 7M  model not available
+76,1250,12,,,,,Sutorbilt Legend - 7M  model not available
+77,1250,13,,,,,Sutorbilt Legend - 7M  model not available
+78,1250,14,,,,,Sutorbilt Legend - 7M  model not available
+79,1300,8,,,,,Sutorbilt Legend - 7M  model not available
+80,1300,9,,,,,Sutorbilt Legend - 7M  model not available
+81,1300,10,,,,,Sutorbilt Legend - 7M  model not available
+82,1300,12,,,,,Sutorbilt Legend - 7M  model not available
+83,1300,13,,,,,Sutorbilt Legend - 7M  model not available
+84,1300,14,,,,,Sutorbilt Legend - 7M  model not available

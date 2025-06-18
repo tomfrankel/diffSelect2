@@ -1,0 +1,367 @@
+200CDL600B - Performance Data,,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,,
+Config,Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,
+RC1,1,500,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,2,500,9,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,3,500,12,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,4,500,15,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,5,500,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,6,560,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,7,560,9,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,8,560,12,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,9,560,15,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,10,560,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,11,620,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,12,620,9,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,13,620,12,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,14,620,15,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,15,620,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,16,680,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,17,680,9,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,18,680,12,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,19,680,15,69.1,806,29,86,CycloBlower HE 200CDL600RC1 Low
+,20,680,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,21,740,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,22,740,9,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,23,740,12,55.8,813,29,69,CycloBlower HE 200CDL600RC1 Low
+,24,740,15,72.5,846,30,86,CycloBlower HE 200CDL600RC1 Low
+,25,740,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,26,800,5,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,27,800,9,42.7,816,29,53,CycloBlower HE 200CDL600RC1 Low
+,28,800,12,58.6,853,30,69,CycloBlower HE 200CDL600RC1 Low
+,29,800,15,75.9,886,32,86,CycloBlower HE 200CDL600RC1 Low
+,30,800,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,31,860,5,25.4,800,29,31,CycloBlower HE 200CDL600RC1 Low
+,32,860,9,45,856,31,53,CycloBlower HE 200CDL600RC1 Low
+,33,860,12,61.5,893,32,69,CycloBlower HE 200CDL600RC1 Low
+,34,860,15,79.3,926,33,86,CycloBlower HE 200CDL600RC1 Low
+,35,860,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,36,920,5,26.8,841,30,31,CycloBlower HE 200CDL600RC1 Low
+,37,920,9,47.2,896,32,53,CycloBlower HE 200CDL600RC1 Low
+,38,920,12,64.3,933,33,69,CycloBlower HE 200CDL600RC1 Low
+,39,920,15,82.8,966,34,86,CycloBlower HE 200CDL600RC1 Low
+,40,920,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,41,980,5,28.3,881,31,31,CycloBlower HE 200CDL600RC1 Low
+,42,980,9,49.5,936,33,53,CycloBlower HE 200CDL600RC1 Low
+,43,980,12,67.2,973,35,69,CycloBlower HE 200CDL600RC1 Low
+,44,980,15,86.2,1006,36,86,CycloBlower HE 200CDL600RC1 Low
+,45,980,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,46,1040,5,29.8,921,33,31,CycloBlower HE 200CDL600RC1 Low
+,47,1040,9,51.8,977,35,53,CycloBlower HE 200CDL600RC1 Low
+,48,1040,12,70.1,1013,36,69,CycloBlower HE 200CDL600RC1 Low
+,49,1040,15,89.7,1046,37,86,CycloBlower HE 200CDL600RC1 Low
+,50,1040,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,51,1100,5,31.3,962,34,31,CycloBlower HE 200CDL600RC1 Low
+,52,1100,9,54.1,1017,36,53,CycloBlower HE 200CDL600RC1 Low
+,53,1100,12,73,1053,38,69,CycloBlower HE 200CDL600RC1 Low
+,54,1100,15,93.2,1085,39,86,CycloBlower HE 200CDL600RC1 Low
+,55,1100,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,56,1160,5,32.8,1002,36,31,CycloBlower HE 200CDL600RC1 Low
+,57,1160,9,56.4,1057,38,53,CycloBlower HE 200CDL600RC1 Low
+,58,1160,12,75.9,1093,39,69,CycloBlower HE 200CDL600RC1 Low
+,59,1160,15,96.7,1125,40,86,CycloBlower HE 200CDL600RC1 Low
+,60,1160,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,61,1220,5,34.3,1042,37,31,CycloBlower HE 200CDL600RC1 Low
+,62,1220,9,58.7,1097,39,53,CycloBlower HE 200CDL600RC1 Low
+,63,1220,12,78.8,1133,40,69,CycloBlower HE 200CDL600RC1 Low
+,64,1220,15,100.2,1165,42,86,CycloBlower HE 200CDL600RC1 Low
+,65,1220,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,66,1280,5,35.9,1083,39,31,CycloBlower HE 200CDL600RC1 Low
+,67,1280,9,61,1137,41,53,CycloBlower HE 200CDL600RC1 Low
+,68,1280,12,81.7,1173,42,69,CycloBlower HE 200CDL600RC1 Low
+,69,1280,15,103.7,1205,43,86,CycloBlower HE 200CDL600RC1 Low
+,70,1280,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,71,1340,5,37.4,1123,40,31,CycloBlower HE 200CDL600RC1 Low
+,72,1340,9,63.4,1178,42,53,CycloBlower HE 200CDL600RC1 Low
+,73,1340,12,84.6,1213,43,69,CycloBlower HE 200CDL600RC1 Low
+,74,1340,15,107.2,1245,44,86,CycloBlower HE 200CDL600RC1 Low
+,75,1340,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+,76,1400,5,38.9,1164,42,31,CycloBlower HE 200CDL600RC1 Low
+,77,1400,9,65.7,1218,43,53,CycloBlower HE 200CDL600RC1 Low
+,78,1400,12,87.6,1253,45,69,CycloBlower HE 200CDL600RC1 Low
+,79,1400,15,110.7,1285,46,86,CycloBlower HE 200CDL600RC1 Low
+,80,1400,18,,,,,CycloBlower HE 200CDL600RC1 Low - model not available
+RC2,81,500,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,82,500,9,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,83,500,12,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,84,500,15,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,85,500,18,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,86,500,20,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,87,560,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,88,560,9,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,89,560,12,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,90,560,15,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,91,560,18,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,92,560,20,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,93,620,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,94,620,9,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,95,620,12,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,96,620,15,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,97,620,18,78.6,815,29,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,98,620,20,89.7,837,30,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,99,680,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,100,680,9,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,101,680,12,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,102,680,15,66.2,822,29,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,103,680,18,82,853,30,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,104,680,20,93.3,874,31,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,105,740,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,106,740,9,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,107,740,12,54.6,829,30,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,108,740,15,69.2,860,31,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,109,740,18,85.4,891,32,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,110,740,20,97,912,33,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,111,800,5,,,,,CycloBlower HE 200CDL600RC 2 Medium - model not available
+,112,800,9,43.7,837,30,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,113,800,12,57.2,867,31,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,114,800,15,72.3,898,32,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,115,800,18,88.8,929,33,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,116,800,20,100.7,950,34,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,117,860,5,29.7,837,30,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,118,860,9,46,876,31,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,119,860,12,59.9,906,32,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,120,860,15,75.3,936,33,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,121,860,18,92.3,967,35,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,122,860,20,104.5,987,35,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,123,920,5,31.4,875,31,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,124,920,9,48.2,914,33,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,125,920,12,62.5,944,34,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,126,920,15,78.4,974,35,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,127,920,18,95.8,1005,36,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,128,920,20,108.2,1025,37,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,129,980,5,33.2,914,33,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,130,980,9,48.8,1693,47,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,131,980,12,65.2,982,35,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,132,980,15,81.5,1012,36,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,133,980,18,99.3,1043,37,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,134,980,20,112,1063,38,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,135,1040,5,34.9,953,34,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,136,1040,9,52.8,991,35,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,137,1040,12,67.9,1021,36,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,138,1040,15,84.6,1050,38,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,139,1040,18,102.8,1081,39,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,140,1040,20,115.8,1101,39,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,141,1100,5,36.7,991,35,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,142,1100,9,55.1,1030,37,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,143,1100,12,70.7,1059,38,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,144,1100,15,87.7,1089,39,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,145,1100,18,106.3,1119,40,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,146,1100,20,119.6,1139,41,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,147,1160,5,38.5,1030,37,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,148,1160,9,57.4,1068,38,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,149,1160,12,73.4,1098,39,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,150,1160,15,90.9,1127,40,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,151,1160,18,109.9,1157,41,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,152,1160,20,123.4,1178,42,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,153,1220,5,40.3,1069,38,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,154,1220,9,59.8,1107,40,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,155,1220,12,76.2,1136,41,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,156,1220,15,94.1,1166,42,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,157,1220,18,113.5,1196,43,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,158,1220,20,127.3,1216,43,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,159,1280,5,42.1,1108,40,28,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,160,1280,9,62.2,1146,41,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,161,1280,12,79,1175,42,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,162,1280,15,97.3,1204,43,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,163,1280,18,117.1,1234,44,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,164,1280,20,131.1,1254,45,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,165,1340,5,43.9,1147,41,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,166,1340,9,64.6,1185,42,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,167,1340,12,81.8,1214,43,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,168,1340,15,100.5,1243,44,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,169,1340,18,120.7,1273,45,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,170,1340,20,135,1293,46,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,171,1400,5,45.8,1186,42,18,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,172,1400,9,67,1224,44,32,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,173,1400,12,84.6,1252,45,42,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,174,1400,15,103.7,1282,46,52,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,175,1400,18,124.4,1311,47,62,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+,176,1400,20,138.9,1331,48,68,CycloBlower HE 200CDL600RC 2 Medium (FFL)
+RC3,177,800,12,61.5,848,30,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,178,800,15,72.9,869,31,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,179,800,18,85.1,889,32,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,180,800,20,93.7,902,32,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,181,860,12,64.9,888,32,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,182,860,15,76.6,909,32,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,183,860,18,89.2,929,33,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,184,860,20,98,942,34,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,185,920,12,68.4,929,33,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,186,920,15,80.4,949,34,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,187,920,18,93.3,969,35,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,188,920,20,102.3,982,35,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,189,980,12,72,969,35,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,190,980,15,84.3,989,35,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,191,980,18,97.4,1009,36,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,192,980,20,106.6,1022,37,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,193,1040,12,75.5,1009,36,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,194,1040,15,88.1,1030,37,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,195,1040,18,123.2,665,30,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,196,1040,20,110.9,1062,38,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,197,1100,12,79.1,1049,37,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,198,1100,15,92,1070,38,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,199,1100,18,105.7,1089,39,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,200,1100,20,115.2,1102,39,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,201,1160,12,82.7,1090,39,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,202,1160,15,95.9,1110,40,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,203,1160,18,109.8,1129,40,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,204,1160,20,119.6,1142,41,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,205,1220,12,86.3,1130,40,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,206,1220,15,99.8,1150,41,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,207,1220,18,114,1170,42,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,208,1220,20,124,1182,42,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,209,1280,12,90,1170,42,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,210,1280,15,103.7,1190,43,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,211,1280,18,118.3,1210,43,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,212,1280,20,128.4,1222,44,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,213,1340,12,93.6,1210,43,35,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,214,1340,15,107.7,1230,44,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,215,1340,18,122.5,1250,45,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,216,1340,20,132.9,1262,45,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,217,1400,12,97.3,1251,45,36,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,218,1400,15,111.6,1270,45,43,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,219,1400,18,126.8,1290,46,51,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+,220,1400,20,137.3,1302,47,57,CycloBlower H.E. - 200CDL600 RC3 High (FFL)
+RC1(Low),221,891.7,5,26.1,822,29,31,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,222,1498,5,41.5,1230,44,31,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,223,2102.4,5,57.8,1638,58,31,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,224,2705,5,75.2,2046,73,31,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,225,3305.8,5,93.5,2454,88,31,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,226,3904.8,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,227,806.7,9,43,820,29,53,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,228,1416,9,66.3,1228,44,53,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,229,2023.4,9,90.7,1636,58,53,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,230,2629,9,116.1,2045,73,53,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,231,3232.8,9,142.4,2453,88,53,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,232,3834.7,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,233,749.6,12,56.2,820,29,69,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,234,1361.1,12,85.7,1227,44,69,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,235,1970.8,12,116.1,1635,58,69,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,236,2578.6,12,147.5,2044,73,69,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,237,3184.6,12,179.8,2452,88,69,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,238,3788.8,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,239,698.1,15,70.1,818,29,86,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,240,1311.9,15,105.5,1226,44,86,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,241,1923.8,15,142,1634,58,86,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,242,2533.9,15,179.4,2042,73,86,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,243,3142.1,15,217.8,2450,88,86,"CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL"
+,244,3748.5,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,245,1268.3,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,246,1882.5,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,247,2494.8,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,248,3105.3,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,249,3713.9,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+RC2(Low),250,828.8,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,251,1459.7,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,252,2078.8,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,253,2686,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,254,3281.4,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,255,3864.9,5,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,256,767.8,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,257,1402.3,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,258,2024.9,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,259,2635.6,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,260,3234.5,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,261,3821.6,9,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,262,720.9,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,263,1358,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,264,1983.2,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,265,2596.6,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,266,3198.2,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,267,3787.9,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,268,673,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,269,1312.7,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,270,1940.6,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,271,2556.7,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,272,3160.9,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,273,3753.3,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,274,624.1,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,275,1266.5,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,276,1897,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,277,2515.7,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,278,3122.6,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,279,3717.6,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,280,590.9,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,281,1235.1,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,282,1867.4,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,283,2487.8,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,284,3096.5,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,285,3693.3,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+RC3(Low),286,752.2,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,287,1360.3,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,288,1969.1,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,289,2578.6,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,290,3188.9,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,291,3800,12,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,292,720.8,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,293,1330.2,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,294,1940.3,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,295,2551.1,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,296,3162.8,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,297,3775.2,15,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,298,690.2,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,299,1300.9,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,300,1912.3,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,301,2524.5,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,302,3137.4,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,303,3751.1,18,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,304,670.2,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,305,1281.7,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,306,1894,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,307,2507.1,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,308,3120.9,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,309,3735.5,20,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+RC2 (High),310,574.2,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,311,1219.2,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,312,1852.4,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,313,2473.7,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,314,3083.2,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,315,3680.9,21,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,316,523.3,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,317,1170.9,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,318,1806.8,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,319,2430.8,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,320,3042.9,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,321,3643.3,24,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,322,1121.7,27,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,323,1760.1,27,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,324,2386.8,27,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,325,3001.6,27,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,326,3604.6,27,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,327,1712.5,30,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,328,2341.8,30,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,329,2959.3,30,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+,330,3564.9,30,,,,,CycloBlower H.E. - 200CDL600 RC1 Low Compression FFL  model not available
+RC3 (High),331,660.3,21,88.2,816,29,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,332,1272.3,21,133,1223,44,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,333,1885.1,21,180.4,1631,58,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,334,2498.6,21,230.1,2039,73,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,335,3112.8,21,282.3,2447,87,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,336,3727.9,21,353.4,1587,72,60,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,337,631.3,24,99.2,815,29,68,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,338,1244.6,24,147,1223,44,685,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,339,1858.6,24,197.2,1631,58,68,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,340,2473.5,24,249.9,2039,73,68,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,341,3089,24,305,2447,87,68,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,342,3705.4,24,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,343,603,27,110.8,815,29,76,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,344,1217.6,27,161.5,1223,44,76,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,345,1833,27,214.6,1631,58,76,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,346,2449.2,27,270.2,2039,73,76,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,347,3066.1,27,328.2,2447,87,76,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,348,3683.7,27,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,349,575.5,30,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,350,1191.5,30,176.6,1223,44,85,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,351,1808.2,30,232.6,1631,58,85,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,352,2425.6,30,291.1,2038,73,85,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,353,3043.8,30,352,2446,87,85,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,354,3662.8,30,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,355,1166.1,33,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,356,1784.1,33,251.2,1630,58,93,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,357,2402.9,33,312.5,2038,73,93,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,358,3022.4,33,376.3,2446,87,93,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL
+,359,3642.7,33,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,360,1141.5,36,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,361,1760.9,36,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,362,23810,36,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,363,3001.8,36,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available
+,364,3623.4,36,,,,,CycloBlower H.E. - 200CDL600 RC3 High Compression FFL model not available

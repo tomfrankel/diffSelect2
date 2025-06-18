@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blower Model Recommendation Tool</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0e7ff 100%);
+        }
+        .glass-card {
+            backdrop-filter: blur(10px);
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .hover-scale {
+            transition: transform 0.2s ease-in-out;
+        }
+        .hover-scale:hover {
+            transform: scale(1.02);
+        }
+        .input-focus {
+            transition: all 0.3s ease;
+        }
+        .input-focus:focus {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(59, 130, 246, 0.15);
+        }
+        .btn-gradient {
+            background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+            transition: all 0.3s ease;
+        }
+        .btn-gradient:hover {
+            background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(59, 130, 246, 0.25);
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .table-row-hover {
+            transition: all 0.2s ease;
+        }
+        .table-row-hover:hover {
+            background-color: #f8fafc;
+            transform: translateX(4px);
+        }
+        .highlight-optimal {
+            background-color: #f0fdf4 !important;
+            border-left: 6px solid #22c55e !important;
+        }
+        .highlight-optimal:hover {
+            background-color: #ecfdf5 !important;
+        }
+        .highlight-best {
+            background-color: #fffde7 !important;
+            border-left: 6px solid #facc15 !important;
+        }
+        .highlight-best:hover {
+            background-color: #fffbeb !important;
+        }
+        .loading {
+            opacity: 0.6;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen">
+    <div class="max-w-7xl mx-auto p-6">
+        <div class="text-center mb-8 fade-in">
+            <h1 class="text-5xl font-bold text-gray-800 mb-3 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                Blower Model Recommendation Tool
+            </h1>
+            <p class="text-xl text-gray-600">Powered by real CSV performance data and proven interpolation algorithms</p>
+            <div class="mt-4 w-24 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 mx-auto rounded-full"></div>
+        </div>
+
+        <div class="glass-card rounded-2xl shadow-xl p-8 mb-8 hover-scale">
+            <h2 class="text-3xl font-semibold text-gray-800 mb-8 flex items-center">
+                <div class="mr-4 p-3 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-xl">
+                    <svg class="text-white" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="3"></circle>
+                        <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+                    </svg>
+                </div>
+                System Requirements
+            </h2>
+            
+            <div class="grid md:grid-cols-4 gap-8">
+                <div class="space-y-3">
+                    <label class="block text-sm font-semibold text-gray-700 mb-3">
+                        Required Airflow (SCFM)
+                    </label>
+                    <input
+                        type="number"
+                        id="airflow"
+                        class="input-focus w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500 focus:border-blue-500 focus:outline-none text-lg font-medium"
+                        placeholder="Enter SCFM"
+                    />
+                </div>
+                
+                <div class="space-y-3">
+                    <label class="block text-sm font-semibold text-gray-700 mb-3">
+                        Required Pressure (PSI)
+                    </label>
+                    <input
+                        type="number"
+                        id="pressure"
+                        class="input-focus w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500 focus:border-blue-500 focus:outline-none text-lg font-medium"
+                        placeholder="Enter PSI"
+                    />
+                </div>
+                
+                <div class="space-y-3">
+                    <label class="block text-sm font-semibold text-gray-700 mb-3">
+                        Electricity Cost ($/kWh)
+                    </label>
+                    <input
+                        type="number"
+                        id="electricityCost"
+                        value="0.10"
+                        step="0.01"
+                        class="input-focus w-full px-6 py-4 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500 focus:border-blue-500 focus:outline-none text-lg font-medium"
+                        placeholder="0.10"
+                    />
+                </div>
+                
+                <div class="flex items-end">
+                    <button
+                        onclick="findBlowers()"
+                        id="searchButton"
+                        class="btn-gradient w-full text-white font-bold py-4 px-8 rounded-xl flex items-center justify-center text-lg shadow-lg"
+                    >
+                        <svg id="searchIcon" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                        <div id="loadingSpinner" class="mr-3 hidden">
+                            <div class="animate-spin rounded-full h-6 w-6 border-b-2 border-white"></div>
+                        </div>
+                        <span id="buttonText">Find Blowers</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="results" class="glass-card rounded-2xl shadow-xl p-8 fade-in" style="display: none;">
+            <h2 class="text-3xl font-semibold text-gray-800 mb-8 flex items-center">
+                <div class="mr-4 p-3 bg-gradient-to-r from-green-500 to-emerald-500 rounded-xl">
+                    <svg class="text-white" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="22,12 18,12 15,21 9,3 6,12 2,12"></polyline>
+                    </svg>
+                </div>
+                <span id="results-title">Blower Recommendations</span>
+            </h2>
+            
+            <div id="no-results" class="text-center py-16" style="display: none;">
+                <div class="mb-6">
+                    <svg class="mx-auto h-20 w-20 text-gray-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polygon points="13,2 3,14 12,14 11,22 21,10 12,10"></polygon>
+                    </svg>
+                </div>
+                <p class="text-2xl font-semibold text-gray-600 mb-3">No suitable blowers found</p>
+                <p class="text-lg text-gray-500">Try adjusting your airflow or pressure requirements</p>
+            </div>
+            
+            <div id="best-fit-section" class="mb-8" style="display: none;">
+                <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-6 border border-green-200">
+                    <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
+                        <svg class="mr-2 text-green-600" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M9 12l2 2 4-4"></path>
+                            <circle cx="12" cy="12" r="10"></circle>
+                        </svg>
+                        Best Fit Recommendation
+                    </h3>
+                    <div id="best-fit-content" class="text-sm text-gray-700"></div>
+                </div>
+            </div>
+            
+            <div id="results-table" class="overflow-x-auto">
+                <table class="w-full table-auto">
+                    <thead>
+                        <tr class="bg-gradient-to-r from-gray-50 to-gray-100">
+                            <th class="px-3 py-3 text-left text-xs font-bold text-gray-700 uppercase tracking-wider">Model</th>
+                            <th class="px-3 py-3 text-left text-xs font-bold text-gray-700 uppercase tracking-wider">Series</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">BHP</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">RPM</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">% Max RPM</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">% Max Press</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">Model R²</th>
+                            <th class="px-3 py-3 text-left text-xs font-bold text-gray-700 uppercase tracking-wider">Annual Cost</th>
+                            <th class="px-3 py-3 text-center text-xs font-bold text-gray-700 uppercase tracking-wider">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="results-body" class="divide-y divide-gray-200">
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200 mt-8">
+                <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
+                    <svg class="mr-2 text-blue-600" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <path d="M12 6v6l4 2"></path>
+                    </svg>
+                    Calculation Notes
+                </h3>
+                <div class="grid md:grid-cols-2 gap-4 text-sm text-gray-600">
+                    <div>
+                        <strong>Data Source:</strong> Real CSV performance test data<br>
+                        <strong>Interpolation:</strong> SciPy griddata with linear/nearest neighbor<br>
+                        <strong>Optimal Range:</strong> 80-95% max RPM, <95% max pressure<br>
+                        <strong>Motor Efficiency:</strong> 95% (Premium)
+                    </div>
+                    <div>
+                        <strong>Belt Drive Efficiency:</strong> 97% (3% loss)<br>
+                        <strong>Operation:</strong> 24/7/365 (8,760 hours/year)<br>
+                        <strong>Power Factor:</strong> 0.9 (Assumed)<br>
+                        <strong>Status Legend:</strong> 🏆 Best Fit, ⭐ Optimal, ✅ Valid, ❌ Over Limit
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="mt-12 glass-card rounded-2xl shadow-xl p-8 hover-scale">
+            <h3 class="text-2xl font-bold text-gray-800 mb-6 text-center">Available Blower Models</h3>
+            <div id="loading-models" class="text-center py-8">
+                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+                <p class="text-gray-600">Loading model data...</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6" id="model-grid" style="display: none;">
+                <!-- Model cards will be populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let modelsData = [];
+
+        // Load model information on page load
+        async function loadModels() {
+            try {
+                const response = await fetch('/api/models');
+                const data = await response.json();
+                modelsData = data.models;
+                populateModelCards(data.models);
+                
+                document.getElementById('loading-models').style.display = 'none';
+                document.getElementById('model-grid').style.display = 'grid';
+            } catch (error) {
+                console.error('Error loading models:', error);
+                document.getElementById('loading-models').innerHTML = `
+                    <p class="text-red-600">Error loading model data: ${error.message}</p>
+                `;
+            }
+        }
+
+        // Populate model cards
+        function populateModelCards(models) {
+            const modelGrid = document.getElementById('model-grid');
+            modelGrid.innerHTML = '';
+            
+            // Group models by series
+            const groupedModels = models.reduce((groups, model) => {
+                if (!groups[model.series]) {
+                    groups[model.series] = [];
+                }
+                groups[model.series].push(model);
+                return groups;
+            }, {});
+            
+            Object.entries(groupedModels).forEach(([series, seriesModels]) => {
+                const seriesColor = {
+                    'Heliflow': 'blue',
+                    'Sutorbilt Legend': 'purple'
+                }[series] || 'gray';
+                
+                // Create series card
+                const seriesCard = document.createElement('div');
+                seriesCard.className = `col-span-full p-6 border-2 border-${seriesColor}-100 rounded-xl bg-${seriesColor}-50 mb-4`;
+                
+                seriesCard.innerHTML = `
+                    <div class="flex items-center mb-4">
+                        <div class="w-4 h-4 bg-${seriesColor}-500 rounded-full mr-3"></div>
+                        <h4 class="font-bold text-xl text-gray-800">${series}</h4>
+                        <span class="ml-auto text-sm text-gray-600">${seriesModels.length} models</span>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                        ${seriesModels.map(model => `
+                            <div class="p-3 bg-white rounded-lg border border-${seriesColor}-200 hover:shadow-md transition-all">
+                                <div class="font-bold text-sm text-gray-800">${model.name}</div>
+                                <div class="text-xs text-gray-600 mb-1">${model.category}</div>
+                                <div class="text-xs text-gray-500">
+                                    ${Math.round(model.airflow_range[0])}-${Math.round(model.airflow_range[1])} CFM •
+                                    ${model.pressure_range[0].toFixed(1)}-${model.pressure_range[1].toFixed(1)} PSI
+                                </div>
+                                <div class="text-xs text-gray-500">
+                                    ${model.data_points} points • R²: ${model.r2 ? model.r2.toFixed(4) : 'N/A'}
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                
+                modelGrid.appendChild(seriesCard);
+            });
+        }
+
+        // Main search function
+        async function findBlowers() {
+            const airflowInput = document.getElementById('airflow');
+            const pressureInput = document.getElementById('pressure');
+            const electricityCostInput = document.getElementById('electricityCost');
+            
+            const requiredCFM = parseFloat(airflowInput.value);
+            const requiredPSI = parseFloat(pressureInput.value);
+            const electricityCost = parseFloat(electricityCostInput.value) || 0.10;
+            
+            if (!requiredCFM || !requiredPSI || requiredCFM <= 0 || requiredPSI <= 0) {
+                alert('Please enter valid positive airflow and pressure values');
+                return;
+            }
+            
+            // Show loading state
+            const searchButton = document.getElementById('searchButton');
+            const searchIcon = document.getElementById('searchIcon');
+            const loadingSpinner = document.getElementById('loadingSpinner');
+            const buttonText = document.getElementById('buttonText');
+            
+            searchButton.classList.add('loading');
+            searchIcon.classList.add('hidden');
+            loadingSpinner.classList.remove('hidden');
+            buttonText.textContent = 'Searching...';
+            
+            try {
+                const response = await fetch('/api/recommend', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        airflow: requiredCFM,
+                        pressure: requiredPSI,
+                        electricity_cost: electricityCost
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    showResults(data.recommendations, requiredCFM, requiredPSI);
+                } else {
+                    alert('Error: ' + data.error);
+                }
+                
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Network error: ' + error.message);
+            } finally {
+                // Reset loading state
+                searchButton.classList.remove('loading');
+                searchIcon.classList.remove('hidden');
+                loadingSpinner.classList.add('hidden');
+                buttonText.textContent = 'Find Blowers';
+            }
+        }
+
+        function showResults(recommendations, airflow, pressure) {
+            const resultsDiv = document.getElementById('results');
+            const resultsTitle = document.getElementById('results-title');
+            const noResultsDiv = document.getElementById('no-results');
+            const resultsTable = document.getElementById('results-table');
+            const resultsBody = document.getElementById('results-body');
+            const bestFitSection = document.getElementById('best-fit-section');
+            const bestFitContent = document.getElementById('best-fit-content');
+            
+            resultsDiv.style.display = 'block';
+            
+            const { results, valid_results, best_fit, total_models } = recommendations;
+            
+            if (results.length === 0) {
+                resultsTitle.textContent = 'No Results Found';
+                noResultsDiv.style.display = 'block';
+                resultsTable.style.display = 'none';
+                bestFitSection.style.display = 'none';
+                document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+                return;
+            }
+            
+            // Show best fit recommendation
+            if (best_fit) {
+                bestFitSection.style.display = 'block';
+                const reasonText = best_fit.is_optimal 
+                    ? `Optimal operating range (80-95% RPM, <95% Pressure). RPM: ${best_fit.pct_max_rpm.toFixed(1)}% (target: ~87.5%), Pressure: ${best_fit.pct_max_pressure.toFixed(1)}% (target: <95%)`
+                    : `Safest available option. RPM: ${best_fit.pct_max_rpm.toFixed(1)}%, Pressure: ${best_fit.pct_max_pressure.toFixed(1)}%`;
+                
+                bestFitContent.innerHTML = `
+                    <div class="font-bold text-lg text-green-700 mb-2">🏆 ${best_fit.model_name} (${best_fit.series})</div>
+                    <div class="mb-2"><strong>Reason:</strong> ${reasonText}</div>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                        <div><strong>BHP:</strong> ${best_fit.bhp.toFixed(2)}</div>
+                        <div><strong>RPM:</strong> ${best_fit.rpm.toLocaleString()}</div>
+                        <div><strong>Annual Cost:</strong> ${best_fit.annual_cost.toLocaleString()}</div>
+                        <div><strong>Model R²:</strong> ${best_fit.r2 ? best_fit.r2.toFixed(4) : 'N/A'}</div>
+                    </div>
+                `;
+            } else {
+                bestFitSection.style.display = 'none';
+            }
+            
+            // Populate results table
+            resultsTitle.textContent = `Results: ${valid_results.length} valid of ${results.length} total (from ${total_models} models)`;
+            noResultsDiv.style.display = 'none';
+            resultsTable.style.display = 'block';
+            resultsBody.innerHTML = '';
+            
+            results.forEach((result) => {
+                const row = document.createElement('tr');
+                
+                let rowClass = 'table-row-hover';
+                let statusIcon = '';
+                let statusText = '';
+                
+                if (!result.is_valid) {
+                    if (result.pct_max_rpm > 100) {
+                        statusIcon = '❌';
+                        statusText = 'RPM > 100%';
+                        rowClass += ' bg-red-50';
+                    } else if (result.pct_max_pressure > 100) {
+                        statusIcon = '❌';
+                        statusText = 'Pressure > 100%';
+                        rowClass += ' bg-red-50';
+                    }
+                } else if (best_fit && result.model_name === best_fit.model_name) {
+                    rowClass += ' highlight-best';
+                    statusIcon = '🏆';
+                    statusText = 'Best Fit';
+                } else if (result.is_optimal) {
+                    rowClass += ' highlight-optimal';
+                    statusIcon = '⭐';
+                    statusText = 'Optimal';
+                } else {
+                    statusIcon = '✅';
+                    statusText = 'Valid';
+                }
+                
+                row.className = rowClass;
+                
+                row.innerHTML = `
+                    <td class="px-3 py-3">
+                        <div class="font-bold text-sm text-gray-900">${result.model_name}</div>
+                    </td>
+                    <td class="px-3 py-3">
+                        <span class="font-medium text-sm text-gray-700">${result.series}</span>
+                        <div class="text-xs text-gray-500">${result.category}</div>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="font-mono text-sm font-bold text-gray-900">${result.bhp.toFixed(2)}</span>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="font-mono text-sm font-bold text-gray-900">${result.rpm.toLocaleString()}</span>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="font-mono text-sm font-bold ${result.pct_max_rpm > 100 ? 'text-red-600' : result.is_optimal ? 'text-green-600' : 'text-gray-900'}">${result.pct_max_rpm.toFixed(1)}%</span>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="font-mono text-sm font-bold ${result.pct_max_pressure > 100 ? 'text-red-600' : result.pct_max_pressure >= 95 ? 'text-yellow-600' : 'text-gray-900'}">${result.pct_max_pressure.toFixed(1)}%</span>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="font-mono text-xs text-gray-600">${result.r2 ? result.r2.toFixed(4) : 'N/A'}</span>
+                    </td>
+                    <td class="px-3 py-3 text-left">
+                        <div class="text-sm font-bold ${result.is_valid ? 'text-green-600' : 'text-gray-400'}">${result.annual_cost.toLocaleString()}/yr</div>
+                    </td>
+                    <td class="px-3 py-3 text-center">
+                        <span class="text-lg">${statusIcon}</span>
+                        <div class="text-xs text-gray-600">${statusText}</div>
+                    </td>
+                `;
+                
+                resultsBody.appendChild(row);
+            });
+            
+            document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Initialize event listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            loadModels();
+            
+            // Add Enter key support
+            ['airflow', 'pressure', 'electricityCost'].forEach(id => {
+                document.getElementById(id).addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        findBlowers();
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

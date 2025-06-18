@@ -1,0 +1,87 @@
+HF 825 - HF 800 Performance Data,,,,,,,,
+Airflow Range: 1200-4350 SCFM,,,Interval: 250 SCFM,,,Max CFM: 4365,,
+RPM Range: 1000-2500,,,Pressure Points: 6,,,Maximum capacity industrial blower,,
+,,,,,,,,
+,,INPUT PARAMETERS,,OUTPUT MEASUREMENTS,,,,
+Test Point,Airflow (SCFM),Pressure (PSIG),BHP,RPM,% Max Speed,% Max Pressure,Efficiency,Notes
+1,1200,5,,,,,,HeliFlow - 825  Model Not Available
+2,1200,7,60.6,926,37,50,56.34%,HeliFlow - 825  
+3,1200,10,89.1,970,39,70,51.03%,HeliFlow - 825  
+4,1200,12,109.3,996,40,83,48.02%,HeliFlow - 825  
+5,1200,15,,,,,,HeliFlow - 825  Model Not Available
+6,1200,18,,,,,,HeliFlow - 825  Model Not Available
+7,1450,5,49.5,1018,41,37,63.51%,HeliFlow - 825  
+8,1450,7,69.3,1051,42,50,59.59%,HeliFlow - 825  
+9,1450,10,101.1,1095,44,70,54.35%,HeliFlow - 825  
+10,1450,12,123.5,1120,45,83,51.35%,HeliFlow - 825  
+11,1450,15,,,,,,HeliFlow - 825  Model Not Available
+12,1450,18,,,,,,HeliFlow - 825  Model Not Available
+13,1700,5,56.1,1145,46,37,65.69%,HeliFlow - 825  
+14,1700,7,78.2,1177,47,50,61.93%,HeliFlow - 825  
+15,1700,10,113.3,1220,49,70,56.83%,HeliFlow - 825  
+16,1700,12,137.9,1246,50,83,53.89%,HeliFlow - 825  
+17,1700,15,,,,,,HeliFlow - 825  Model Not Available
+18,1700,18,,,,,,HeliFlow - 825  Model Not Available
+19,1950,5,62.9,1273,51,37,67.18%,HeliFlow - 825  
+20,1950,7,87.3,1304,52,50,63.62%,HeliFlow - 825  
+21,1950,10,125.8,1347,54,70,58.71%,HeliFlow - 825  
+22,1950,12,152.7,1372,55,83,55.85%,HeliFlow - 825  
+23,1950,15,,,,,,HeliFlow - 825  Model Not Available
+24,1950,18,,,,,,HeliFlow - 825  Model Not Available
+25,2200,5,69.9,1401,56,37,68.17%,HeliFlow - 825  
+26,2200,7,96.6,1433,57,50,64.83%,HeliFlow - 825  
+27,2200,10,138.6,1475,59,70,60.14%,HeliFlow - 825  
+28,2200,12,167.7,1499,60,83,57.36%,HeliFlow - 825  
+29,2200,15,,,,,,HeliFlow - 825  Model Not Available
+30,2200,18,,,,,,HeliFlow - 825  Model Not Available
+31,2450,5,77.2,1531,61,37,68.77%,HeliFlow - 825  
+32,2450,7,106.2,1562,62,50,65.68%,HeliFlow - 825  
+33,2450,10,151.6,1603,64,70,61.21%,HeliFlow - 825  
+34,2450,12,183,1628,65,83,58.53%,HeliFlow - 825  
+35,2450,15,,,,,,HeliFlow - 825  Model Not Available
+36,2450,18,,,,,,HeliFlow - 825  Model Not Available
+37,2700,5,84.7,1662,66,37,69.09%,HeliFlow - 825  
+38,2700,7,116,1692,68,50,66.25%,HeliFlow - 825  
+39,2700,10,165,1733,69,70,62.02%,HeliFlow - 825  
+40,2700,12,198.6,1757,70,83,59.44%,HeliFlow - 825  
+41,2700,15,,,,,,HeliFlow - 825  Model Not Available
+42,2700,18,,,,,,HeliFlow - 825  Model Not Available
+43,2950,5,92.4,1794,72,37,69.18%,HeliFlow - 825  
+44,2950,7,126.1,1824,73,50,66.60%,HeliFlow - 825  
+45,2950,10,178.5,1864,75,70,62.61%,HeliFlow - 825  
+46,2950,12,214.5,1887,75,83,60.13%,HeliFlow - 825  
+47,2950,15,,,,,,HeliFlow - 825  Model Not Available
+48,2950,18,,,,,,HeliFlow - 825  Model Not Available
+49,3200,5,100.3,1926,77,37,69.09%,HeliFlow - 825  
+50,3200,7,136.4,1956,78,50,66.78%,HeliFlow - 825  
+51,3200,10,192.4,1996,80,70,63.02%,HeliFlow - 825  
+52,3200,12,230.7,2019,81,83,60.64%,HeliFlow - 825  
+53,3200,15,,,,,,HeliFlow - 825  Model Not Available
+54,3200,18,,,,,,HeliFlow - 825  Model Not Available
+55,3450,5,108.5,2060,82,37,68.87%,HeliFlow - 825  
+56,3450,7,147,2090,84,50,66.81%,HeliFlow - 825  
+57,3450,10,206.6,2129,85,70,63.29%,HeliFlow - 825  
+58,3450,12,247.2,2151,86,83,60.02%,HeliFlow - 825  
+59,3450,15,,,,,,HeliFlow - 825  Model Not Available
+60,3450,18,,,,,,HeliFlow - 825  Model Not Available
+61,3700,5,117,2195,88,37,68.53%,HeliFlow - 825  
+62,3700,7,157.9,2224,89,50,66.73%,HeliFlow - 825  
+63,3700,10,221,2263,91,70,63.44%,HeliFlow - 825  
+64,3700,12,264,2285,91,83,61.28%,HeliFlow - 825  
+65,3700,15,,,,,,HeliFlow - 825  Model Not Available
+66,3700,18,,,,,,HeliFlow - 825  Model Not Available
+67,3950,5,125.7,2331,93,37,68.11%,HeliFlow - 825  
+68,3950,7,169,2360,94,50,66.55%,HeliFlow - 825  
+69,3950,10,235.7,2398,96,70,63.49%,HeliFlow - 825  
+70,3950,12,281.1,2420,97,83,61.43%,HeliFlow - 825  
+71,3950,15,,,,,,HeliFlow - 825  Model Not Available
+72,3950,18,,,,,,HeliFlow - 825  Model Not Available
+73,4200,5,134.6,2468,99,37,67.61%,HeliFlow - 825  
+74,4200,7,180.4,2496,100,50,66.30%,HeliFlow - 825  
+75,4200,10,,,,,,HeliFlow - 825  Model Not Available
+76,4200,12,,,,,,HeliFlow - 825  Model Not Available
+77,4200,15,,,,,,HeliFlow - 825  Model Not Available
+78,4200,18,,,,,,HeliFlow - 825  Model Not Available
+,,,,,,,,
+,,,,,,,,
+Note: Efficiency can be calculated as (CFM × Pressure) / (BHP × 6356) × 100%,,,,,,,,
