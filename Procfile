@@ -1,1 +1,1 @@
-web: python StartGOOG.py -p $PORT
+web: python Start.py -p $PORT
