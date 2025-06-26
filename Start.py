@@ -638,7 +638,7 @@ HTML_TEMPLATE = """
 """
 
 app = Flask(__name__)
-PORT = 8000
+#PORT = 8000
 
 # --- Constants and Data Loading ---
 CURRENT_DIR = Path(__file__).parent
@@ -1427,8 +1427,13 @@ def optimize_blowers():
         traceback.print_exc()
         return jsonify({'error': f'Server error: {str(e)}'}), 500
 
+#if __name__ == '__main__':
+#    print(f"🚀 Starting Multi-Point Blower Optimization Web App")
+#    print(f"📡 Visit: http://localhost:{PORT}")
+#    print("Press Ctrl+C to stop\n")
+#    app.run(host='0.0.0.0', port=PORT, debug=False, use_reloader=False)
+
 if __name__ == '__main__':
-    print(f"🚀 Starting Multi-Point Blower Optimization Web App")
-    print(f"📡 Visit: http://localhost:{PORT}")
-    print("Press Ctrl+C to stop\n")
-    app.run(host='0.0.0.0', port=PORT, debug=False, use_reloader=False)
+    # Get port from environment variable, default to 8000 for local development
+    port = int(os.environ.get("PORT", 8000))
+    app.run(host='0.0.0.0', port=port, debug=False, use_reloader=False)
