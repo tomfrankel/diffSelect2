@@ -638,7 +638,7 @@ HTML_TEMPLATE = """
 """
 
 app = Flask(__name__)
-PORT = 8001
+PORT = 8000
 
 # --- Constants and Data Loading ---
 CURRENT_DIR = Path(__file__).parent
